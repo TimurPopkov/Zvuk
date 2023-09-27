@@ -11,6 +11,21 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
+      <initValue>'https://dev-st.zvq.me'</initValue>
+      <name>dev</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://st.zvq.me'</initValue>
+      <name>preprod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://st.zvuk.com'</initValue>
+      <name>prod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
       <initValue>'https://st.zvooq.ru'</initValue>
       <name>interUrl</name>
    </GlobalVariableEntity>
@@ -93,21 +108,6 @@
       <description></description>
       <initValue>'https://web-admin-preprod-k8s.zvq.me/'</initValue>
       <name>urlAPMpreprod</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'https://dev-st.zvq.me'</initValue>
-      <name>dev</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'https://st.zvq.me'</initValue>
-      <name>preprod</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'https://st.zvuk.com'</initValue>
-      <name>prod</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
