@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Всего прослушиваний</name>
+   <tag></tag>
+   <elementGuidId>33ab8005-b72f-4cae-8dab-5d7f7c8e4598</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[3]/div/div[2]/div[3]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>48e15696-cc05-4be7-80ac-7a8c98557e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h3 css-mg4q7z</value>
+      <webElementGuid>d2eae12e-7d1b-409a-a145-c19354dd8a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>d9a26a15-5043-4d0e-ae81-8ce4127184dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-a1abyh-Main-root&quot;]/div[@class=&quot;MuiBox-root css-uz4xfq-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-qd27a9-Podcast-Widgets-grid&quot;]/div[@class=&quot;MuiBox-root css-1o5itu6-Podcast-Widgets-grid&quot;]/section[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded MuiCard-root css-1agl10a&quot;]/div[@class=&quot;MuiCardContent-root css-drw0oh&quot;]/div[@class=&quot;css-j7qwjs&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-h3 css-mg4q7z&quot;]</value>
+      <webElementGuid>a64be876-6cc5-4a78-875d-0e2efdb89ed0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div[2]/div/section[3]/div/div[2]/span[2]</value>
+      <webElementGuid>9a194e1a-1a2c-45ad-98ab-bade82c761b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Май'])[3]/following::span[1]</value>
+      <webElementGuid>2320ec86-c2a8-4b38-9a84-d528444d7286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Всего прослушиваний'])[1]/following::span[2]</value>
+      <webElementGuid>534f23f1-e382-4c72-adf8-08210edadbe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Апрель'])[3]/preceding::span[1]</value>
+      <webElementGuid>7a658ccd-1098-4e00-a4a4-fcdbdb14c2b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Прослушивания'])[1]/preceding::span[3]</value>
+      <webElementGuid>7d3800b8-23fc-4960-9840-557170903b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5']/parent::*</value>
+      <webElementGuid>5bfa07fa-43df-441a-9aca-74943e54cf13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div[2]/span[2]</value>
+      <webElementGuid>c0e44167-2b08-4393-af07-00459d68e603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '5' or . = '5')]</value>
+      <webElementGuid>0a7d4791-dd9d-449a-8986-fbf7a9adb7b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

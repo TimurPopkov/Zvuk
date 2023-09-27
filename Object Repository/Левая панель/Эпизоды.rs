@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Эпизоды</name>
+   <tag></tag>
+   <elementGuidId>2823562d-dfc2-4ee2-912a-ec8e5f6e26ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@role = 'button' and (text() = 'Эпизоды' or . = 'Эпизоды')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aa97a132-e513-436c-84ef-d8b4e1e723c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root  css-14cge7l-SidebarListItem-root</value>
+      <webElementGuid>9b4c28ff-c964-4772-aeb5-b4473473ac8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>302a129e-46df-47d7-af0d-541a00ad1ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b6c8cbfb-2e0e-438a-8960-72ea27452d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Эпизоды</value>
+      <webElementGuid>dbe17708-092b-4060-a4b8-97d4c8a033b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/nav[@class=&quot;css-1eu2wq9-Sidebar-root&quot;]/div[@class=&quot;css-tyints-Sidebar-menu&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-nvdwdx-SidebarList-root&quot;]/li[4]/a[@class=&quot;MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone css-d6d3zt&quot;]/div[@class=&quot;MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root  css-14cge7l-SidebarListItem-root&quot;]</value>
+      <webElementGuid>85ac1642-cf87-46ea-9f53-f88fdd2f28e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/nav/div[2]/ul/li[4]/a/div</value>
+      <webElementGuid>42b8e7bc-db89-48c5-9429-74939fc0dfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Настройки подкаста'])[1]/following::div[1]</value>
+      <webElementGuid>af985b29-c093-4e59-90ed-b972df069e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Аналитика'])[1]/following::div[4]</value>
+      <webElementGuid>e6fd36dc-a416-430a-9e0e-dccdd55e1966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='База знаний'])[1]/preceding::div[4]</value>
+      <webElementGuid>f6264c21-4492-42fe-b81f-42f815787d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div</value>
+      <webElementGuid>1b3e50ba-4440-4cbb-80b3-431c5cfa3061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Эпизоды' or . = 'Эпизоды')]</value>
+      <webElementGuid>081fa9fc-0da1-4d6d-82cb-5f11f453f190</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

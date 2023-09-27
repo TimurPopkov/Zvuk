@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1 эпизод</name>
+   <tag></tag>
+   <elementGuidId>f855b666-d8d6-421e-a542-89844dd1f4d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '1 эпизод' or . = '1 эпизод')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50732689-430a-4ece-acf6-cebe71a3fdda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p4 css-6dy5le-Player-AudioInfo-description</value>
+      <webElementGuid>7ff70516-1b21-400d-a8f3-93d23e171ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 эпизод</value>
+      <webElementGuid>d0c91725-48e3-4b52-9857-4b476d03cbb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;PlayerContainer-playerVisible MuiBox-root css-q2xra5-PlayerContainer-root&quot;]/div[@class=&quot;MuiBox-root css-1u4cw49-Lib-Player-container&quot;]/div[@class=&quot;MuiBox-root css-10s4q2m-Lib-Player-audioInfoBox&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-wrap-xs-nowrap css-21crq2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-wrap-xs-nowrap audio-info-container css-108cu9b&quot;]/div[@class=&quot;audio-info_extra MuiBox-root css-vj6nfs&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-p4 css-6dy5le-Player-AudioInfo-description&quot;]</value>
+      <webElementGuid>ce5edb21-48de-456d-8ac7-a91c8de4e084</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/div[3]/div/div[2]/div/span[2]</value>
+      <webElementGuid>d7428f54-27f3-489a-9e9d-ab6b2b2ace25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='autotest'])[3]/following::span[1]</value>
+      <webElementGuid>a672c3e6-6ac0-48cb-8742-0c76f3fd945a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test2'])[1]/following::span[2]</value>
+      <webElementGuid>9556312f-e477-4151-8bb5-f374364c348c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2']/parent::*</value>
+      <webElementGuid>a8c7264c-7f9f-419a-a145-a6076dcef627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>b9faf9a4-c09e-4a7d-9b9d-a3deb3ae9365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2 эпизод' or . = '2 эпизод')]</value>
+      <webElementGuid>d501961f-63a3-4744-a205-aa3d97eb20de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

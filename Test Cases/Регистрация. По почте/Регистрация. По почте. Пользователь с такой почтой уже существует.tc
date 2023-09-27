@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Регистрация. По почте. Пользователь с такой почтой уже существует</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a130196-95b6-4f99-9bce-2306df0c57fe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9db22245-1cb2-4b2e-bab4-98130551c475</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Пользователь с такой почтой уже существует'</defaultValue>
+      <description></description>
+      <id>9db22245-1cb2-4b2e-bab4-98130551c475</id>
+      <masked>false</masked>
+      <name>emailExist</name>
+   </variable>
+</TestCaseEntity>

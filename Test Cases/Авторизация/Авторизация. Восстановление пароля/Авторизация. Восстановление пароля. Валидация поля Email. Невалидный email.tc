@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Авторизация. Восстановление пароля. Валидация поля Email. Невалидный email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>971d221c-7c22-4379-8a93-f54d824d0d01</testCaseGuid>
+</TestCaseEntity>

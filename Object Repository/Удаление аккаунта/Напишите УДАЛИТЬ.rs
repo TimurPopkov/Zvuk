@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Напишите УДАЛИТЬ</name>
+   <tag></tag>
+   <elementGuidId>2a268ab6-ae0e-460d-b7b1-cdafca2f8598</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Напишите УДАЛИТЬ' and @type = 'text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.MuiOutlinedInput-input.MuiInputBase-input.css-a1c9b9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>dcdb859f-353f-4447-acfa-5cb48bfc6a4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>215776c0-d391-4ec3-ac88-eeec187e6a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Напишите УДАЛИТЬ</value>
+      <webElementGuid>0552a659-1a43-4a4c-824d-0c6aa9757d81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>cf62ec09-77ae-4da6-965c-20eaf9e2dfd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiOutlinedInput-input MuiInputBase-input css-a1c9b9</value>
+      <webElementGuid>a8c8b85a-4f3c-44ee-b785-6b66a6947b8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-3dyzvh-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-150j08n-Main-root&quot;]/main[@class=&quot;MuiBox-root css-izfkue-Main-root-Auth-Main-root&quot;]/div[@class=&quot;Ui-Container-withPadding MuiBox-root css-16dqx0q-Ui-Container-root&quot;]/div[@class=&quot;css-1gqp5wz-Ui-Container-inner&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded css-e8dape-Auth-Main-paper&quot;]/div[@class=&quot;css-d38fke-Components-RemoveAccountPodcastDialog-container&quot;]/div[1]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-13pf0sx&quot;]/div[@class=&quot;MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl css-1ty88a9&quot;]/input[@class=&quot;MuiOutlinedInput-input MuiInputBase-input css-a1c9b9&quot;]</value>
+      <webElementGuid>cbef8ed3-8907-4c99-bfd7-071a31787ba5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>bd20e478-9091-4194-9091-172743adce2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/main/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>2928d715-6b92-4623-bf40-db92919250a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>7fcbc6db-81f6-41b7-a7c9-93f1020b86ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Напишите УДАЛИТЬ' and @type = 'text']</value>
+      <webElementGuid>42f00598-e3e6-4e99-b758-fe41951055df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

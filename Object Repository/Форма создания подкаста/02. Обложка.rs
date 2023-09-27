@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>02. Обложка</name>
+   <tag></tag>
+   <elementGuidId>040d63a2-853f-45e6-9ff8-aa2a1baa9b70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@type = 'button' and @href = '#' and (text() = '02. Обложка' or . = '02. Обложка')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6b72d8b8-fb9b-46d1-ae9c-f8217506e29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone  css-6dlfvo-Podcasts-MenuItem-link</value>
+      <webElementGuid>5664ca98-6ff8-490b-a4b7-d4eda760d5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1cc08e2f-0370-41b5-9545-e836a08bd2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>65841603-b595-4eac-b3ae-9c65ff5d54d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>02. Обложка</value>
+      <webElementGuid>7370ef46-e194-4d53-90de-e24a07fb3d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-3dyzvh-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-a1abyh-Main-root&quot;]/div[@class=&quot;MuiBox-root css-1cgzuyw&quot;]/nav[@class=&quot;css-1ssmg91&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone  css-6dlfvo-Podcasts-MenuItem-link&quot;]</value>
+      <webElementGuid>d6a75f0b-8a0e-48cd-a702-b999fe36edad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@type='button'])[2]</value>
+      <webElementGuid>13c173a4-8c75-4e27-a66c-f9fb11162b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div[2]/nav/a[2]</value>
+      <webElementGuid>80961fe3-d72c-424e-b32b-28bc714283d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'02. Обложка')]</value>
+      <webElementGuid>e3eff945-59b2-4146-bb3b-9843464f21b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Управление подкастами'])[1]/following::a[2]</value>
+      <webElementGuid>89c27ab1-2151-404b-9633-08012c45fc46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Создание нового подкаста'])[1]/preceding::a[5]</value>
+      <webElementGuid>2c11f42e-cf91-4b6f-b4e8-3ee0cdf90738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Узнать о создании нового подкаста'])[1]/preceding::a[5]</value>
+      <webElementGuid>87dc92d4-074c-4ea4-b799-8caca088b438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='02. Обложка']/parent::*</value>
+      <webElementGuid>9dbe0582-4f64-42a3-92ec-bd129545c868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>8d7659ca-6f15-4a4e-9414-117ebe62d339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>732e19b2-f0f0-49ad-a6df-37845add290b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@type = 'button' and @href = '#' and (text() = '02. Обложка' or . = '02. Обложка')]</value>
+      <webElementGuid>9b95cd11-9f39-4065-8b3a-2a74086abc2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

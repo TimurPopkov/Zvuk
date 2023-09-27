@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Авторизация. Валидный email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e33c2c5d-058c-48d0-822e-92badb59ccf2</testCaseGuid>
+</TestCaseEntity>

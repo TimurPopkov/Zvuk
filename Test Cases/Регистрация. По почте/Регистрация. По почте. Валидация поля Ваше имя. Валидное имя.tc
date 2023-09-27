@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Регистрация. По почте. Валидация поля Ваше имя. Валидное имя</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe37288d-5b12-412b-b663-50ce20b590ab</testCaseGuid>
+</TestCaseEntity>

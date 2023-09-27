@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Добавить эпизод</name>
+   <tag></tag>
+   <elementGuidId>b5a4a802-375c-483a-8c68-aa235be5ffe8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButton-disableElevation.MuiButtonBase-root.css-7d030a-Podcasts-SuccessScreen-addButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Добавить эпизод')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e86be6e2-55e7-4237-a993-a1f858426a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-disableElevation MuiButtonBase-root css-7d030a-Podcasts-SuccessScreen-addButton</value>
+      <webElementGuid>a386e5a8-d83d-4294-83dc-1ab833620cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>2ac7be76-427d-418f-8fba-b5377b99c287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/w/podcast/21347/episode/create</value>
+      <webElementGuid>2d22b2c9-ab44-43a4-8b17-4fa6e78ee3b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Добавить эпизод</value>
+      <webElementGuid>18f7c1e3-282d-4cb8-814f-4f05a54824ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-3dyzvh-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-pr5jul-Main-root&quot;]/div[@class=&quot;Ui-Container-withPadding MuiBox-root css-1aclo92-Ui-Container-root-Podcasts-SuccessScreen-root&quot;]/div[@class=&quot;css-yqbj2u-Ui-Container-inner&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded css-hqipaq&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-undefined css-1w5daqw-Podcasts-SuccessScreen-content&quot;]/a[@class=&quot;MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-disableElevation MuiButtonBase-root css-7d030a-Podcasts-SuccessScreen-addButton&quot;]</value>
+      <webElementGuid>aed06b6c-c5ae-42db-8171-8de6f3fd2637</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/div/a</value>
+      <webElementGuid>44187304-258a-47fe-80ea-b547815e0826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Добавить эпизод')])[2]</value>
+      <webElementGuid>02a7265e-f36b-476f-a170-79c0b5063db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Теперь вы можете начать добавлять эпизоды, хотите сделать это прямо сейчас?'])[1]/following::a[1]</value>
+      <webElementGuid>d6787974-8c93-4189-8c69-f1c5519042d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Вы добавили подкаст:«empty»'])[1]/following::a[1]</value>
+      <webElementGuid>09dcbd9e-0d02-400b-b7e2-58dc1d971bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Не сейчас'])[1]/preceding::a[1]</value>
+      <webElementGuid>a4051360-4b58-4917-9bd3-0573383caaca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/w/podcast/21347/episode/create')])[2]</value>
+      <webElementGuid>375d3997-dcfa-4b72-a888-c5e24b423cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a</value>
+      <webElementGuid>46473b92-ec08-4313-aaa7-fc9e6e231f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/w/podcast/21347/episode/create' and (text() = 'Добавить эпизод' or . = 'Добавить эпизод')]</value>
+      <webElementGuid>9209a8a2-ce79-499d-afa1-cfc695570aa8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

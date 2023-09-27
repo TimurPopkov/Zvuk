@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Опубликован</name>
+   <tag></tag>
+   <elementGuidId>061f5fb0-7869-4fdb-9a5a-0d361ef6406f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-p7.css-1e5aeq2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Опубликован' or . = 'Опубликован')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39878898-2c76-46f3-92b8-0935307e1372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p7 css-1e5aeq2</value>
+      <webElementGuid>bafe69e0-35bf-4a6c-8059-1c8d13ae4fa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Опубликован</value>
+      <webElementGuid>2214e7da-1f4c-442c-b27d-5861e145064a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-jt84w5-Main-root&quot;]/div[@class=&quot;MuiBox-root css-uz4xfq-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-1v8x7dw&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-10hf68e-Episodes-EpisodeList-itemsWrap&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone css-d6d3zt&quot;]/div[@class=&quot;css-k1rbxp-Episodes-EpisodeListItem-root&quot;]/div[@class=&quot;MuiBox-root css-1s4k9ol&quot;]/span[@class=&quot;MuiBox-root css-5l3tz3-Episodes-EpisodePublishStatus-root&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-p7 css-1e5aeq2&quot;]</value>
+      <webElementGuid>6ff5e6e1-e86d-4832-84db-24c347d69d11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div[2]/div[3]/div/div/a/div/div[8]/span[2]/span</value>
+      <webElementGuid>6a6ab58e-c282-4ce0-a2ee-510007f638b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Статус'])[1]/following::span[2]</value>
+      <webElementGuid>2fa45fa7-5b6a-455b-8706-a601090c873b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Полный'])[1]/following::span[3]</value>
+      <webElementGuid>07639f2e-dc5a-40c2-a963-8632ba5afe59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Название'])[2]/preceding::span[3]</value>
+      <webElementGuid>dc7d09f9-109f-4fab-a893-c34dc4eac65b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dsadasasd'])[1]/preceding::span[4]</value>
+      <webElementGuid>ceebfb3f-1a4d-42c9-8bf7-800ff6d356df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Опубликован']/parent::*</value>
+      <webElementGuid>8940dac6-3cda-4ca8-8c3d-f0e69f6057ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/span[2]/span</value>
+      <webElementGuid>1c242b1f-3044-414e-b00f-5cf63639425c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Опубликован' or . = 'Опубликован')]</value>
+      <webElementGuid>9b8765c8-82af-406c-afc6-101d1b907e65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ЗаголовокВход</name>
+   <tag></tag>
+   <elementGuidId>0877cc1d-4295-4bf3-acb0-53598ce46cbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[(text() = 'Вход' or . = 'Вход')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.MuiTypography-h4.MuiTypography-alignCenter.MuiTypography-gutterBottom.css-5yvvjw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>fbb1b0bf-1b1b-4eac-95d0-33499ea42097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h4 MuiTypography-alignCenter MuiTypography-gutterBottom css-5yvvjw</value>
+      <webElementGuid>abec7b30-ce56-4390-aeed-cc793b42f8d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Вход</value>
+      <webElementGuid>59986feb-460e-4ebb-9c58-24c4d2018a66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-3dyzvh-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-1xprv68-Main-root-Auth-Main-root&quot;]/div[@class=&quot;Ui-Container-withPadding MuiBox-root css-mrz6wc-Ui-Container-root&quot;]/div[@class=&quot;css-a2qr2c-Ui-Container-inner&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded css-e8dape-Auth-Main-paper&quot;]/form[1]/h1[@class=&quot;MuiTypography-root MuiTypography-h4 MuiTypography-alignCenter MuiTypography-gutterBottom css-5yvvjw&quot;]</value>
+      <webElementGuid>ea644572-f7bb-4840-b86d-4827f294d6bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/form/h1</value>
+      <webElementGuid>56a57784-4441-4d1a-a0c7-19f4b16630ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Зарегистрироваться'])[1]/following::h1[1]</value>
+      <webElementGuid>015337df-c65a-4112-974c-2e6f1f111666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>2cb8fe53-ed8d-43bb-9180-bc9f143e11b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Вход' or . = 'Вход')]</value>
+      <webElementGuid>50d3e0ad-23c2-4132-9f9b-5288a9028b52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

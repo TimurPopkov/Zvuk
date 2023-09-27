@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ЗаголовокОферты</name>
+   <tag></tag>
+   <elementGuidId>52744b99-21ad-43fd-a91a-bdb758574c15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.MuiTypography-h4.css-1hayh2j</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[(text() = 'Оферта на предоставление простой (неисключительной) лицензии' or . = 'Оферта на предоставление простой (неисключительной) лицензии')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>92d223ba-211a-41c3-b60b-83ad70dfbe31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h4 css-1hayh2j</value>
+      <webElementGuid>a6f8ecc5-0b17-417f-a757-6bf969b54c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Оферта на предоставление простой (неисключительной) лицензии</value>
+      <webElementGuid>8094550a-bf73-4ecb-9b30-b0607a7bc012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-3dyzvh-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-1vhkzsz-Main-root&quot;]/div[@class=&quot;MuiBox-root css-13yds0r-Main-Content-root-Agreements-AgreementTemplate-content&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-h4 css-1hayh2j&quot;]</value>
+      <webElementGuid>c7020241-b320-46a0-866a-a1114638c9e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/h1</value>
+      <webElementGuid>3164bf81-508a-4300-b89d-a5ac6223b455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«Аффилированное лицо»'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e1b04b1a-2be3-4236-a513-1a918f986be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«Виджет»'])[1]/preceding::h1[1]</value>
+      <webElementGuid>20bab134-5d95-4b25-af56-5d63afb713cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>021433b9-9777-4042-bfeb-65db0cd8104b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Оферта на предоставление простой (неисключительной) лицензии' or . = 'Оферта на предоставление простой (неисключительной) лицензии')]</value>
+      <webElementGuid>5fb817e9-5ca5-42e9-9f5e-d6e4f8c163ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

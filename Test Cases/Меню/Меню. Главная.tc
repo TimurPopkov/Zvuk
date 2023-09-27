@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Меню. Главная</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b68b12ef-e1cd-43c4-9641-78bf5d2ac50b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ffb72c4-2c39-4502-b34e-1ac2ac6776d4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ffb72c4-2c39-4502-b34e-1ac2ac6776d4</id>
+      <masked>false</masked>
+      <name>currentUrl</name>
+   </variable>
+</TestCaseEntity>

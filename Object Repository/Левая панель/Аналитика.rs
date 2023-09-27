@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Аналитика</name>
+   <tag></tag>
+   <elementGuidId>21c24fec-a860-4d14-9d89-31d87f07dee3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@role = 'button' and (text() = 'Аналитика' or . = 'Аналитика')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d75bc8b7-096c-4eb4-bc83-2d2e154696a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root  css-14cge7l-SidebarListItem-root</value>
+      <webElementGuid>ad660fd8-8b2e-43ff-b050-4a5e653800a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>2bc75cca-8edf-4787-be76-cfa366dadf80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d326712f-4fc6-42fc-8c17-b3cacc552207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Аналитика</value>
+      <webElementGuid>d57dc18a-6228-4cc3-8baa-ce877552a5d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/nav[@class=&quot;css-1eu2wq9-Sidebar-root&quot;]/div[@class=&quot;css-tyints-Sidebar-menu&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-nvdwdx-SidebarList-root&quot;]/li[2]/a[@class=&quot;MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone css-d6d3zt&quot;]/div[@class=&quot;MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root  css-14cge7l-SidebarListItem-root&quot;]</value>
+      <webElementGuid>d072390f-90de-4eaf-92e4-3f760005723a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/nav/div[2]/ul/li[2]/a/div</value>
+      <webElementGuid>95489c86-bd4f-4c2f-b273-ff952d3a5ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Главная'])[2]/following::div[1]</value>
+      <webElementGuid>2191b7d0-f4d8-4387-9d0d-a8db397743c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Настройки подкаста'])[1]/preceding::div[4]</value>
+      <webElementGuid>4d26d8de-c416-4009-b4bc-a459e09f97fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div</value>
+      <webElementGuid>ff02be98-5270-4bb3-b0b2-632fd4779211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Аналитика' or . = 'Аналитика')]</value>
+      <webElementGuid>e9d28ca1-cd1a-4b49-a336-5046dbeb0584</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

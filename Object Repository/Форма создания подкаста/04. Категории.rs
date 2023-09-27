@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>04. Категории</name>
+   <tag></tag>
+   <elementGuidId>256df814-a657-4257-b8da-261944f8d1ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@type = 'button' and @href = '#' and (text() = '04. Категории' or . = '04. Категории')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>93006cdb-ee9f-4146-ad48-a419308c0993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone  css-6dlfvo-Podcasts-MenuItem-link</value>
+      <webElementGuid>9cc523af-1430-416d-927f-695680cd8d33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>044045b3-8df9-4cee-a7cd-766124ff8d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>0e6421b2-6777-4ccb-b43f-b5bd3f5283a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>04. Категории</value>
+      <webElementGuid>670c4084-f96d-419a-9bf5-bc0556442929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-3dyzvh-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-a1abyh-Main-root&quot;]/div[@class=&quot;MuiBox-root css-1cgzuyw&quot;]/nav[@class=&quot;css-1ssmg91&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone  css-6dlfvo-Podcasts-MenuItem-link&quot;]</value>
+      <webElementGuid>d8f781d6-f5b2-4764-ba3b-0484ddc1c939</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@type='button'])[4]</value>
+      <webElementGuid>e71a1b3d-41e3-4f05-b97f-599a360d160a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div[2]/nav/a[4]</value>
+      <webElementGuid>2fe83ea9-4bcf-4e8d-8fe2-959d91bfdf2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'04. Категории')]</value>
+      <webElementGuid>4f76aaaa-1ea1-483c-ae4f-a24f093ae233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Управление подкастами'])[1]/following::a[4]</value>
+      <webElementGuid>c1ab061b-5455-4230-b5ba-444c241d3dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Создание нового подкаста'])[1]/preceding::a[3]</value>
+      <webElementGuid>caa15e7d-b40f-493a-9c46-9575ee54504a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Узнать о создании нового подкаста'])[1]/preceding::a[3]</value>
+      <webElementGuid>f7eea3ca-8547-44fd-8792-900bc85936b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='04. Категории']/parent::*</value>
+      <webElementGuid>3f70fb2a-2e5f-4a32-a005-28f1e049ef61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>b7d7c1b2-2491-4e95-a131-96d4427153a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>6736d167-1841-488c-95e4-53a6fa1e6b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@type = 'button' and @href = '#' and (text() = '04. Категории' or . = '04. Категории')]</value>
+      <webElementGuid>98a4b42c-10c3-467b-b133-55e09c350f95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

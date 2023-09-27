@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ПарольСкрыт</name>
+   <tag></tag>
+   <elementGuidId>4a0198f5-a094-4be9-b85f-5808a7e8ff9d</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_1674486376877/ПарольСкрыт.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_1674486376877/ПарольСкрыт.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Пароль должен содержать:'])[1]/preceding::div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fbb34a63-a9a0-45ae-b430-0dacfab64cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInput-root MuiInput-underline MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-oaudnp</value>
+      <webElementGuid>c5c39370-7470-4854-9609-c27e3a60357f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reg&quot;)/main[@class=&quot;MuiBox-root css-1c7k1no-Main-root-Auth-Main-root&quot;]/div[@class=&quot;Ui-Container-withPadding MuiBox-root css-mrz6wc-Ui-Container-root&quot;]/div[@class=&quot;css-a2qr2c-Ui-Container-inner&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded css-e8dape-Auth-Main-paper&quot;]/form[1]/div[@class=&quot;MuiFormControl-root MuiFormControl-marginNormal MuiFormControl-fullWidth MuiTextField-root css-1u0h3mu&quot;]/div[@class=&quot;MuiInput-root MuiInput-underline MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-oaudnp&quot;]</value>
+      <webElementGuid>b0db320e-a570-4741-8021-4938707a4505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reg']/main/div/div/div/form/div[3]/div</value>
+      <webElementGuid>e46fd86e-2347-40c4-9873-9b60050381ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Пароль должен содержать:'])[1]/preceding::div[5]</value>
+      <webElementGuid>82680f16-04f6-4e92-973e-dc3be1033d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div</value>
+      <webElementGuid>f74c4d96-73ea-47b3-a075-3754b80bcf4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

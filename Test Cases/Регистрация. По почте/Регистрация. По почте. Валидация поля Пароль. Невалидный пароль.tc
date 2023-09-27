@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Регистрация. По почте. Валидация поля Пароль. Невалидный пароль</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb2afab5-8478-4cd3-b844-d83417ac165b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cea6efc0-a56a-4963-884d-b033cf0c5456</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>57213bc3-46b4-49b1-b5ef-07dcd49e4208</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Введите корректный пароль'</defaultValue>
+      <description></description>
+      <id>cea6efc0-a56a-4963-884d-b033cf0c5456</id>
+      <masked>false</masked>
+      <name>invalidPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'Введите пароль'</defaultValue>
+      <description></description>
+      <id>57213bc3-46b4-49b1-b5ef-07dcd49e4208</id>
+      <masked>false</masked>
+      <name>nonePassword</name>
+   </variable>
+</TestCaseEntity>

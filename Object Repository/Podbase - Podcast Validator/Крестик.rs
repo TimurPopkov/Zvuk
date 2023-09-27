@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Крестик</name>
+   <tag></tag>
+   <elementGuidId>85275b5f-9615-40f0-b212-9acc19e14657</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//tr[@id='{{ testId }}']/td/i)[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>87f96f5c-90e6-4f0a-81a0-6131d35326aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times-circle</value>
+      <webElementGuid>801c5a5f-7d84-4467-bed6-40ed06afa41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;card test-card&quot;]/div[@class=&quot;card-block test-block&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-tests&quot;]/tr[@id=&quot;{{ testId }}&quot;]/td[@class=&quot;test-status&quot;]/i[@class=&quot;fa fa-times-circle&quot;]</value>
+      <webElementGuid>654bfad7-11f0-43bd-a016-716f87ebd8e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//tr[@id='{{ testId }}']/td/i)[13]</value>
+      <webElementGuid>a4a9e6d2-f88d-4346-ba24-2d04ac8fb238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/table/tr[2]/td/i</value>
+      <webElementGuid>9d5732f9-84a1-46e1-9eaf-8e8dd02088bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ТекстЧекбокса1</name>
+   <tag></tag>
+   <elementGuidId>059fb979-6d3c-4d1f-8cb8-8bb8762f43d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-p7.css-1e5aeq2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Я ознакомился с офертой и согласен на обработку персональных данных ' or . = 'Я ознакомился с офертой и согласен на обработку персональных данных ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c5cb65b-5bdf-46f9-bf92-97b1b79a1e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p7 css-1e5aeq2</value>
+      <webElementGuid>3e1af419-8d66-45df-9e6c-b9014c29ab9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Я ознакомился с офертой и согласен на обработку персональных данных </value>
+      <webElementGuid>56ba1639-4b73-4d5f-94f3-84ed3daf5d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reg&quot;)/main[@class=&quot;MuiBox-root css-1c7k1no-Main-root-Auth-Main-root&quot;]/div[@class=&quot;Ui-Container-withPadding MuiBox-root css-mrz6wc-Ui-Container-root&quot;]/div[@class=&quot;css-a2qr2c-Ui-Container-inner&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded css-e8dape-Auth-Main-paper&quot;]/form[1]/div[@class=&quot;css-1oors68&quot;]/label[1]/div[@class=&quot;css-vide34&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-p7 css-1e5aeq2&quot;]</value>
+      <webElementGuid>7bb21db6-3470-4bbb-8e47-824c0ccc9b7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reg']/main/div/div/div/form/div[6]/label/div/span[2]</value>
+      <webElementGuid>f9d58826-fd04-4261-868e-bf751f4808e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Одну заглавную букву'])[1]/following::span[2]</value>
+      <webElementGuid>8e4a440b-fa0c-4765-936f-fe25e4118b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Хотя бы 1 спец. символ'])[1]/following::span[2]</value>
+      <webElementGuid>85cd71f1-23d4-4bd2-bcac-caee25d8d1e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Я ознакомился с']/parent::*</value>
+      <webElementGuid>84c7e024-4b3a-4d5d-be50-7a912cb5445a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>b158c75b-e542-4249-9da1-fe88c2878692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Я ознакомился с офертой и согласен на обработку персональных данных ' or . = 'Я ознакомился с офертой и согласен на обработку персональных данных ')]</value>
+      <webElementGuid>2700ff26-7601-4185-b126-15af57a3f692</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

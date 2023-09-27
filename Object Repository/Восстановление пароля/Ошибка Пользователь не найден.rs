@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Ошибка Пользователь не найден</name>
+   <tag></tag>
+   <elementGuidId>d4a04ccf-e2cc-47b8-afcd-ed021e7781c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id = 'email-helper-text' and (text() = 'Пользователь не найден' or . = 'Пользователь не найден')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#email-helper-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2b10ecdf-9174-4784-b6d0-088967a176d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-filled Mui-required css-463v7</value>
+      <webElementGuid>326a0172-4980-4b6d-b4a7-401e9b6e5e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email-helper-text</value>
+      <webElementGuid>290d507b-62bb-4e22-8c1c-fa1955f19b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Пользователь не найден</value>
+      <webElementGuid>753dcdd6-e56c-4eb2-81f8-86d3dbd87a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email-helper-text&quot;)</value>
+      <webElementGuid>921dc73d-52d6-48a6-a8c5-abbe2c4d6fac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='email-helper-text']</value>
+      <webElementGuid>8d5bae27-fc4d-4a43-984e-29feb694d2ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/form/div/p</value>
+      <webElementGuid>8e903fb8-5195-4777-8a5c-3c173581bf0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Введите адрес электронной почты, указанный при регистрации.'])[1]/following::p[1]</value>
+      <webElementGuid>5b9be2fe-b2d5-4c5d-9f9e-a80cc2a69413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Сбросить пароль'])[1]/preceding::p[1]</value>
+      <webElementGuid>37b16b3c-4b65-4d38-89e1-7e8073004347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'email-helper-text', '&quot;', ')')])[1]/preceding::p[2]</value>
+      <webElementGuid>d9eb46d8-6ca0-49a6-891f-55945ea05946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Пользователь не найден']/parent::*</value>
+      <webElementGuid>0299085c-fc5b-4b97-8af5-e366b0e28902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>b9975456-2165-478b-90a6-c3ac4a258d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'email-helper-text' and (text() = 'Пользователь не найден' or . = 'Пользователь не найден')]</value>
+      <webElementGuid>1e9aa526-7a91-4de9-b182-ff761bafaf81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

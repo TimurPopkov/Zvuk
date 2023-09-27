@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Удалить аккаунт</name>
+   <tag></tag>
+   <elementGuidId>143c136d-9acd-4f82-baa7-807673928b81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Удалить аккаунт' or . = 'Удалить аккаунт')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeSmall.MuiButton-outlinedSizeSmall.MuiButton-disableElevation.MuiButtonBase-root.css-16s0ok4-Components-RemoveAccountPodcastCard-removeButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bcf6c9ab-1398-47cb-bec7-0c5a41f06a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-disableElevation MuiButtonBase-root css-16s0ok4-Components-RemoveAccountPodcastCard-removeButton</value>
+      <webElementGuid>18dbf120-0894-41a8-ab58-bba04ac9c84f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7a60aa1c-a7e2-458a-a87a-4f39dfc7882d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a84c573e-becb-471b-bc23-7a3a6f0e25bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>delete-button</value>
+      <webElementGuid>8859b589-0ca8-4123-be84-6ff8ee65b582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Удалить аккаунт</value>
+      <webElementGuid>251c11cc-e01e-4b88-80bc-5e79e3e1f974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-150j08n-Main-root&quot;]/div[@class=&quot;MuiBox-root css-uz4xfq-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-c3v8sx-Ui-Container-root&quot;]/div[@class=&quot;css-1gqp5wz-Ui-Container-inner&quot;]/div[@class=&quot;MuiBox-root css-1iag4bj&quot;]/div[@class=&quot;MuiBox-root css-1ws491f&quot;]/div[@class=&quot;css-ra15ob&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded MuiCard-root css-1agl10a&quot;]/div[@class=&quot;MuiCardContent-root css-drw0oh&quot;]/button[@class=&quot;MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-disableElevation MuiButtonBase-root css-16s0ok4-Components-RemoveAccountPodcastCard-removeButton&quot;]</value>
+      <webElementGuid>e12d5607-2c10-43f9-80a7-bd921f69c693</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>0d1b735f-b597-4700-9b61-f02bc34f412c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/div[2]/div/div/div[2]/div/button</value>
+      <webElementGuid>eb9ec9b3-7422-4ecd-924f-8f575f59d50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Изменить пароль'])[1]/following::button[1]</value>
+      <webElementGuid>d8b1f19d-0786-4c1e-85e5-670238aded5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='О сервисе'])[1]/preceding::button[1]</value>
+      <webElementGuid>79c2a7cf-4f2b-4197-aae2-73568c6c18f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Работа'])[1]/preceding::button[1]</value>
+      <webElementGuid>b5fcd0ae-8d7e-4d26-bf1f-4c142cd6d4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/button</value>
+      <webElementGuid>a7047fcb-9a32-43cf-bb06-3b24d6bc50dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Удалить аккаунт' or . = 'Удалить аккаунт')]</value>
+      <webElementGuid>9da77306-0f43-42f6-a912-6c611e0c829b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

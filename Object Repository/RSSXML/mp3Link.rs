@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mp3Link</name>
+   <tag></tag>
+   <elementGuidId>ab5b7419-bc6a-4149-81cd-9f6e4120d6f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'https://st.zvooq.ru/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/0524b577-7daf-47f8-bf43-e188afa047a2.mp3' or . = 'https://st.zvooq.ru/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/0524b577-7daf-47f8-bf43-e188afa047a2.mp3')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'html-attribute-value' and (contains(text(), '.mp3') or contains(., '.mp3'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27a18529-6598-49a2-9752-2231cfd8d50c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>html-attribute-value</value>
+      <webElementGuid>a6de64a1-aaf9-450f-8c25-cd6a3732548a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>https://st.zvooq.ru/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/0524b577-7daf-47f8-bf43-e188afa047a2.mp3</value>
+      <webElementGuid>ff577979-a123-4045-bf48-f8be90aeb73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;folder10&quot;)/div[@class=&quot;opened&quot;]/div[@class=&quot;line&quot;]/span[@class=&quot;html-tag&quot;]/span[@class=&quot;html-attribute&quot;]/span[@class=&quot;html-attribute-value&quot;]</value>
+      <webElementGuid>cd519b58-538e-495a-9466-d92a2fe24ecc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='https://st.zvooq.ru/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/0524b577-7daf-47f8-bf43-e188afa047a2.mp3']/parent::*</value>
+      <webElementGuid>ef7c8a78-2895-41b2-89ee-2fb9920c0744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'https://st.zvooq.ru/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/0524b577-7daf-47f8-bf43-e188afa047a2.mp3' or . = 'https://st.zvooq.ru/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/0524b577-7daf-47f8-bf43-e188afa047a2.mp3')]</value>
+      <webElementGuid>8ad5c27d-c03c-4d1e-8f0e-4c668b0ec920</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Подтверждение почты. Переход к подтверждению почты по неактуальной (Старой) ссылке</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5a015ba-b370-4ad5-a6bd-f59bbe1c6e35</testCaseGuid>
+</TestCaseEntity>

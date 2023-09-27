@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>УведомлениеПодтверждения</name>
+   <tag></tag>
+   <elementGuidId>bf3fe5f5-1575-4294-bbba-4e5b1ccfc9d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-p6.css-8f20j6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Подтвердите свою почту, чтобы получить RSS-фид и пользоваться всеми возможностями Студио для подкастеров.' or . = 'Подтвердите свою почту, чтобы получить RSS-фид и пользоваться всеми возможностями Студио для подкастеров.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>070e023b-9ad1-4f83-bfc5-75a6f4228499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p6 css-8f20j6</value>
+      <webElementGuid>600069a1-f153-47fc-a784-09698e31ca1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Подтвердите свою почту, чтобы получить RSS-фид и пользоваться всеми возможностями Студио для подкастеров.</value>
+      <webElementGuid>99bc4fb1-75a2-47be-b5da-3ce991e30efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/div[@class=&quot;MuiBox-root css-h2do2k-UI-Plate-root-Auth-AccountRestrictedPlate-root&quot;]/div[@class=&quot;css-1t6x6g2&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-p6 css-8f20j6&quot;]</value>
+      <webElementGuid>ab96f87f-40f8-427f-bf27-7dc19971f104</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/span</value>
+      <webElementGuid>3a06eb7f-063f-475b-b16a-76857ee726a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Подтвердить'])[1]/preceding::span[1]</value>
+      <webElementGuid>442bad1f-5325-4988-9c98-b344285893ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Подтвердите свою почту, чтобы получить RSS-фид и пользоваться всеми возможностями Студио для подкастеров.']/parent::*</value>
+      <webElementGuid>b9d306b5-22db-4ce2-9949-b4e395d03bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>c202a6d3-d261-4579-89e6-de064281d50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Подтвердите свою почту, чтобы получить RSS-фид и пользоваться всеми возможностями Студио для подкастеров.' or . = 'Подтвердите свою почту, чтобы получить RSS-фид и пользоваться всеми возможностями Студио для подкастеров.')]</value>
+      <webElementGuid>90f875e5-bed7-48b9-b979-cd4f47b89dbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

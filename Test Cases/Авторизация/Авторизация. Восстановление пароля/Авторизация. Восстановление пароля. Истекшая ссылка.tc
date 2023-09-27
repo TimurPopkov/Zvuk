@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Авторизация. Восстановление пароля. Истекшая ссылка</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb5c2b2b-0881-4349-9da5-bd02a228ee84</testCaseGuid>
+</TestCaseEntity>

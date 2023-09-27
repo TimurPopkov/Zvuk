@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Авторизация. Восстановление пароля. Отправить заново</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74c042d8-d74f-468a-b5b7-37abef7c6844</testCaseGuid>
+</TestCaseEntity>

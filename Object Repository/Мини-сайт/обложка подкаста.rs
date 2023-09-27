@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Обложка подкаста</name>
+   <tag></tag>
+   <elementGuidId>53ef3f7c-d2ab-4b2a-96df-becdcb868295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt = 'обложка подкаста']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e704b1b0-41c1-451a-a2af-1658d549e678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>обложка подкаста</value>
+      <webElementGuid>2abe0dbf-5885-4c94-9ff0-7672ecab43f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://st.zvq.me/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/poster.jpeg?size=335&amp;1684302730436</value>
+      <webElementGuid>3f55845a-eb30-45d7-90b3-0af1b142294a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>58089ee7-9a28-415b-a075-97e032f60a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nimg</name>
+      <type>Main</type>
+      <value>fill</value>
+      <webElementGuid>6eaf0f47-fe78-4ca0-a334-1c6df1f0ca5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-almznq-Image-root</value>
+      <webElementGuid>0bb6542e-edd2-46e4-a1a9-d7825777413e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-n2uxri-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-6rvsfg-Main-root&quot;]/div[@class=&quot;MuiBox-root css-zmnw5a-Main-gradient&quot;]/div[@class=&quot;MuiBox-root css-79elbk&quot;]/div[@class=&quot;MuiBox-root css-a91i4s-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-1sdgq76-Podcast-InfoBlock-root&quot;]/div[@class=&quot;MuiBox-root css-12cav-Podcast-InfoBlock-coverWrapper&quot;]/span[1]/img[@class=&quot;css-almznq-Image-root&quot;]</value>
+      <webElementGuid>33a36599-d7b8-404a-9a9e-3801181e0d85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/div/div/span/img</value>
+      <webElementGuid>35c31f80-e731-48cb-92c4-0a2ebfdf38f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='обложка подкаста']</value>
+      <webElementGuid>ef32e218-3fff-4cb1-aa17-837eb11d6deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/span/img</value>
+      <webElementGuid>de00f042-ba16-4194-8e88-a321f3f56ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'обложка подкаста' and @src = 'https://st.zvq.me/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/poster.jpeg?size=335&amp;1684302730436']</value>
+      <webElementGuid>a952d3e4-e231-44c6-9ebe-c950f96d9f95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Авторизация. Нет доступа к закрытым страницам сайта напрямую без авторизации</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a731540d-0000-4f7f-b095-1de8443bb951</testCaseGuid>
+</TestCaseEntity>

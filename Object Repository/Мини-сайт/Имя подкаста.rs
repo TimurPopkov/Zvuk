@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Имя подкаста</name>
+   <tag></tag>
+   <elementGuidId>b50b7776-9498-484f-92fb-1e695cfe056a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.MuiTypography-p1.css-1kjflzr-Podcast-InfoBlock-heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>90cad67f-93aa-42b9-9db0-a33890d5fdc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p1 css-1kjflzr-Podcast-InfoBlock-heading</value>
+      <webElementGuid>e24df93c-5b73-4658-a45a-f3d3c561c6dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>autotest</value>
+      <webElementGuid>aef3fd5e-cf49-43ba-a23d-f53c9fa952af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-n2uxri-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-6rvsfg-Main-root&quot;]/div[@class=&quot;MuiBox-root css-zmnw5a-Main-gradient&quot;]/div[@class=&quot;MuiBox-root css-79elbk&quot;]/div[@class=&quot;MuiBox-root css-a91i4s-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-1sdgq76-Podcast-InfoBlock-root&quot;]/div[@class=&quot;css-vpup35-Podcast-InfoBlock-content&quot;]/div[@class=&quot;css-zmv2sl-Podcast-InfoBlock-headingWrap&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-p1 css-1kjflzr-Podcast-InfoBlock-heading&quot;]</value>
+      <webElementGuid>f733b32b-98a7-409e-9068-14dd50d9565a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/div/div[3]/div/h1</value>
+      <webElementGuid>f7bdd1e6-e7fc-4302-8788-cb57f3d03fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cвязаться со мной'])[1]/following::h1[1]</value>
+      <webElementGuid>a539d150-0ee1-4812-bc03-85c957c365ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='timur'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c67c449d-c662-4471-9ec5-a9ef72249e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='autotest']/parent::*</value>
+      <webElementGuid>db707cc5-0eee-4fe8-9fa0-3a47fa91e465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>b4b376b5-7a80-43e9-86bd-11488d0b03d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'autotest' or . = 'autotest')]</value>
+      <webElementGuid>78c1f912-0106-4a64-9d7c-4a47d31b0c4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

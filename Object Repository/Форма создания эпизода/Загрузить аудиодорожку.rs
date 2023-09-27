@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Загрузить аудиодорожку</name>
+   <tag></tag>
+   <elementGuidId>83eb0b84-91db-4367-9f78-a6fcc062ae34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1uxgo9j-AudioFileUpload-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text() = 'Перетащите файл сюда,']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Перетащите файл сюда,или загрузите.' or . = 'Перетащите файл сюда,или загрузите.')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0eeedbd0-b864-4f1e-8090-55922f603e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6bb27ed3-0497-4e98-b148-dc16ddc3b33a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1uxgo9j-AudioFileUpload-content</value>
+      <webElementGuid>0ede10b5-9beb-4c0b-a9a1-97fb270207d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Перетащите файл сюда,или загрузите.</value>
+      <webElementGuid>e3b70fec-bc23-4474-8c5b-d220191f5ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-a1abyh-Main-root&quot;]/div[@class=&quot;MuiBox-root css-uz4xfq-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-1ehfqw6&quot;]/form[1]/div[@class=&quot;MuiBox-root css-1ws491f&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-ra15ob&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-9sym17-AudioFileUpload-root&quot;]/div[@class=&quot;css-1uxgo9j-AudioFileUpload-content&quot;]</value>
+      <webElementGuid>b45f88d3-0eac-4d5e-a1f8-0022625b24a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div[2]/div[3]/form/div/div/div/div[4]/div/div/div</value>
+      <webElementGuid>cd135f84-e1cf-4df6-a339-de79a28f194a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Аудиодорожка *'])[1]/following::div[8]</value>
+      <webElementGuid>dbfb1f02-41ae-433b-8ad0-0febdcae38bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Размер обложки:'])[1]/following::div[11]</value>
+      <webElementGuid>dfb9c846-4e26-42c7-ac55-a65554d49687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+      <webElementGuid>cba03c69-373c-4cb0-a7c7-1afb3529bb97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Перетащите файл сюда,или загрузите.' or . = 'Перетащите файл сюда,или загрузите.')]</value>
+      <webElementGuid>100f40d2-b54a-426a-97de-0bd8383fe7ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

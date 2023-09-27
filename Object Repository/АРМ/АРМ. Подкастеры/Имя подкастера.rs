@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Имя подкастера</name>
+   <tag></tag>
+   <elementGuidId>93b69daa-2cec-43c0-bbaa-d0cb335080d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//p[2])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-p1.css-9xuqhq-PodcasterForm-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c17a35ee-3134-4f8e-902a-3a0f17a369b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p1 css-9xuqhq-PodcasterForm-value</value>
+      <webElementGuid>35d36643-ca0f-4911-aba5-08d6738dc1fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>tdkldxpzyf</value>
+      <webElementGuid>ec553ed9-4150-45bd-ad3a-b8c45bcb1f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-1tder41-Modal-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 Modal-paper MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm css-1rx4q0r&quot;]/div[@class=&quot;MuiDialogContent-root css-1h0u45g&quot;]/form[@class=&quot;css-x5ofyh-PodcasterForm-form&quot;]/div[@class=&quot;MuiBox-root css-1fobf8d&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-p1 css-9xuqhq-PodcasterForm-value&quot;]</value>
+      <webElementGuid>bcaac56e-b642-41ff-8bf7-d392d75d85f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Блокировка'])[1]/following::p[2]</value>
+      <webElementGuid>41a21231-c609-4ab6-b8cb-a13c0c6e3346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Информация о блокировках'])[1]/following::p[2]</value>
+      <webElementGuid>874f58c1-bbfe-4a13-8121-db57a0e9dc70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Выберите причину блокировки'])[1]/preceding::p[3]</value>
+      <webElementGuid>5a6458e4-936d-488d-859f-78639a459c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::p[3]</value>
+      <webElementGuid>b8ca3bca-589b-4cdd-85e2-9585156e2181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>10044aa9-a43c-4661-98ce-e562def90cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'tdkldxpzyf' or . = 'tdkldxpzyf')]</value>
+      <webElementGuid>984e68fc-8869-491e-ae54-e1592d05de56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

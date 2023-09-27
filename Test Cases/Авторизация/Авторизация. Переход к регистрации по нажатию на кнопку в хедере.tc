@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Авторизация. Переход к регистрации по нажатию на кнопку в хедере</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cec96d0a-13b7-47b6-ac51-b869f0769171</testCaseGuid>
+</TestCaseEntity>

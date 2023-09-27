@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Нажмите здесь, чтобы продолжить</name>
+   <tag></tag>
+   <elementGuidId>b66848ba-5383-4184-b04b-502e4a057c58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'» Нажмите здесь, чтобы продолжить')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>25db5a00-b92c-4681-ae78-7f806662308c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://st.zvq.me/s/realms/podcast-realm/login-actions/action-token?key=eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI0ZThjMjc1YS05OTcxLTRmMDEtOTkwNy1hNTI2ZGY4ZDQ0Y2QifQ.eyJleHAiOjE2NzY5NDQ3ODEsImlhdCI6MTY3NjkwMjI1MywianRpIjoiNDUyOWRkYmYtODExMS00MDljLTgxMDMtNWM3MTg0MzZiZDM1IiwiaXNzIjoiaHR0cHM6Ly9zdC56dnEubWUvcy9yZWFsbXMvcG9kY2FzdC1yZWFsbSIsImF1ZCI6Imh0dHBzOi8vc3QuenZxLm1lL3MvcmVhbG1zL3BvZGNhc3QtcmVhbG0iLCJzdWIiOiJlOTlmYjBlZi00ZmVlLTRkZjItODk2Yy1hMjYxNWY0ZGZmNzYiLCJ0eXAiOiJleGVjdXRlLWFjdGlvbnMiLCJhenAiOiJhY2NvdW50Iiwibm9uY2UiOiI0NTI5ZGRiZi04MTExLTQwOWMtODEwMy01YzcxODQzNmJkMzUiLCJlbWwiOiJyZWNvdmVycGFzc3dvcmRAbWFpbHRvLnBsdXMiLCJycWFjIjpbIlVQREFURV9QQVNTV09SRCJdLCJhc2lkIjoiZjdkODgwMmEtY2NmMy00OWY0LTk5ODItYWQwMDVjZmQwY2RiLlRqQ2VZQ2xBWHlRLjlmMjMwN2M0LTVkMDItNDM5Mi1hY2M0LWM0Y2I5NTA3Yzc0ZSIsImFzaWQiOiJmN2Q4ODAyYS1jY2YzLTQ5ZjQtOTk4Mi1hZDAwNWNmZDBjZGIuVGpDZVlDbEFYeVEuOWYyMzA3YzQtNWQwMi00MzkyLWFjYzQtYzRjYjk1MDdjNzRlIiwicnFhYyI6WyJVUERBVEVfUEFTU1dPUkQiXX0.DIk7KbwgMakA9TMJTCD31-N2yztduamQHCWO_t3lrvU&amp;client_id=account&amp;tab_id=TjCeYClAXyQ</value>
+      <webElementGuid>6a4eeef4-6d8f-4b8f-b786-23d773af98ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>» Нажмите здесь, чтобы продолжить</value>
+      <webElementGuid>2d27eadf-47b6-437b-ab87-4bbedb712eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kc-info-message&quot;)/p[2]/a[1]</value>
+      <webElementGuid>54eaa851-44df-4b40-9647-3a0096402faf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kc-info-message']/p[2]/a</value>
+      <webElementGuid>ca76e256-371c-4ef3-9905-873f6307a110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'» Нажмите здесь, чтобы продолжить')]</value>
+      <webElementGuid>048495bd-4d8f-46f6-b57d-e830b68edfc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Обновить пароль'])[1]/following::a[1]</value>
+      <webElementGuid>4390867a-56c6-4d8c-a044-f74bf0f3590a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Выполните следующее(ие) действие(я)'])[1]/following::a[1]</value>
+      <webElementGuid>ca3d5267-2d25-4ecb-8959-fffed6dc5903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'kc-info-message', '&quot;', ')/p[2]/a[1]')])[1]/preceding::a[1]</value>
+      <webElementGuid>322da6ab-65c8-4218-a682-e5de16a09ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='» Нажмите здесь, чтобы продолжить']/parent::*</value>
+      <webElementGuid>eafd679b-4c1a-4f5c-aac1-69cc81e1e145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://st.zvq.me/s/realms/podcast-realm/login-actions/action-token?key=eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI0ZThjMjc1YS05OTcxLTRmMDEtOTkwNy1hNTI2ZGY4ZDQ0Y2QifQ.eyJleHAiOjE2NzY5NDQ3ODEsImlhdCI6MTY3NjkwMjI1MywianRpIjoiNDUyOWRkYmYtODExMS00MDljLTgxMDMtNWM3MTg0MzZiZDM1IiwiaXNzIjoiaHR0cHM6Ly9zdC56dnEubWUvcy9yZWFsbXMvcG9kY2FzdC1yZWFsbSIsImF1ZCI6Imh0dHBzOi8vc3QuenZxLm1lL3MvcmVhbG1zL3BvZGNhc3QtcmVhbG0iLCJzdWIiOiJlOTlmYjBlZi00ZmVlLTRkZjItODk2Yy1hMjYxNWY0ZGZmNzYiLCJ0eXAiOiJleGVjdXRlLWFjdGlvbnMiLCJhenAiOiJhY2NvdW50Iiwibm9uY2UiOiI0NTI5ZGRiZi04MTExLTQwOWMtODEwMy01YzcxODQzNmJkMzUiLCJlbWwiOiJyZWNvdmVycGFzc3dvcmRAbWFpbHRvLnBsdXMiLCJycWFjIjpbIlVQREFURV9QQVNTV09SRCJdLCJhc2lkIjoiZjdkODgwMmEtY2NmMy00OWY0LTk5ODItYWQwMDVjZmQwY2RiLlRqQ2VZQ2xBWHlRLjlmMjMwN2M0LTVkMDItNDM5Mi1hY2M0LWM0Y2I5NTA3Yzc0ZSIsImFzaWQiOiJmN2Q4ODAyYS1jY2YzLTQ5ZjQtOTk4Mi1hZDAwNWNmZDBjZGIuVGpDZVlDbEFYeVEuOWYyMzA3YzQtNWQwMi00MzkyLWFjYzQtYzRjYjk1MDdjNzRlIiwicnFhYyI6WyJVUERBVEVfUEFTU1dPUkQiXX0.DIk7KbwgMakA9TMJTCD31-N2yztduamQHCWO_t3lrvU&amp;client_id=account&amp;tab_id=TjCeYClAXyQ')]</value>
+      <webElementGuid>a1847f3f-2508-4f61-ad86-430aba828250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>911087b6-5ec1-463c-9c62-3cf02af55396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://st.zvq.me/s/realms/podcast-realm/login-actions/action-token?key=eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI0ZThjMjc1YS05OTcxLTRmMDEtOTkwNy1hNTI2ZGY4ZDQ0Y2QifQ.eyJleHAiOjE2NzY5NDQ3ODEsImlhdCI6MTY3NjkwMjI1MywianRpIjoiNDUyOWRkYmYtODExMS00MDljLTgxMDMtNWM3MTg0MzZiZDM1IiwiaXNzIjoiaHR0cHM6Ly9zdC56dnEubWUvcy9yZWFsbXMvcG9kY2FzdC1yZWFsbSIsImF1ZCI6Imh0dHBzOi8vc3QuenZxLm1lL3MvcmVhbG1zL3BvZGNhc3QtcmVhbG0iLCJzdWIiOiJlOTlmYjBlZi00ZmVlLTRkZjItODk2Yy1hMjYxNWY0ZGZmNzYiLCJ0eXAiOiJleGVjdXRlLWFjdGlvbnMiLCJhenAiOiJhY2NvdW50Iiwibm9uY2UiOiI0NTI5ZGRiZi04MTExLTQwOWMtODEwMy01YzcxODQzNmJkMzUiLCJlbWwiOiJyZWNvdmVycGFzc3dvcmRAbWFpbHRvLnBsdXMiLCJycWFjIjpbIlVQREFURV9QQVNTV09SRCJdLCJhc2lkIjoiZjdkODgwMmEtY2NmMy00OWY0LTk5ODItYWQwMDVjZmQwY2RiLlRqQ2VZQ2xBWHlRLjlmMjMwN2M0LTVkMDItNDM5Mi1hY2M0LWM0Y2I5NTA3Yzc0ZSIsImFzaWQiOiJmN2Q4ODAyYS1jY2YzLTQ5ZjQtOTk4Mi1hZDAwNWNmZDBjZGIuVGpDZVlDbEFYeVEuOWYyMzA3YzQtNWQwMi00MzkyLWFjYzQtYzRjYjk1MDdjNzRlIiwicnFhYyI6WyJVUERBVEVfUEFTU1dPUkQiXX0.DIk7KbwgMakA9TMJTCD31-N2yztduamQHCWO_t3lrvU&amp;client_id=account&amp;tab_id=TjCeYClAXyQ' and (text() = '» Нажмите здесь, чтобы продолжить' or . = '» Нажмите здесь, чтобы продолжить')]</value>
+      <webElementGuid>26d4b182-cf0e-4939-a7d2-ac2c909f4769</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

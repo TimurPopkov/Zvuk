@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Подтверждение почты. После регистрации по почте. Перейти на Главную</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fad53ec-a909-4979-8141-d281e7610420</testCaseGuid>
+</TestCaseEntity>

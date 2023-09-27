@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Подтвердить</name>
+   <tag></tag>
+   <elementGuidId>56316f02-e9cb-49b6-92f1-443bca69d3d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//font[(text() = 'Подтвердить' or . = 'Подтвердить')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>4c6adeab-b1d9-4074-8077-4d36de650097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Подтвердить</value>
+      <webElementGuid>141c5411-c42f-432a-b1fa-8c1fa49c9c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;info&quot;)/div[@class=&quot;overflow-auto mb-20&quot;]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[3]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[2]/tbody[1]/tr[1]/td[1]/div[1]/p[1]/span[2]/a[1]/font[1]</value>
+      <webElementGuid>8451bf24-809c-4fd8-af6e-5d9676a53292</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info']/div[3]/div/table/tbody/tr/td/table/tbody/tr/td/table[3]/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td/table[2]/tbody/tr/td/div/p/span[2]/a/font</value>
+      <webElementGuid>3e5d4725-7d55-4a97-a00c-b3be542ba258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Нажмите для подтверждения почты:'])[1]/following::font[1]</value>
+      <webElementGuid>389d6f83-3213-41ef-acf9-63d2f7e6d060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Подтверждение почты'])[1]/following::font[1]</value>
+      <webElementGuid>8fcdfad5-11ee-4dae-9bba-230e9e1ab8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Код подтверждения:'])[1]/preceding::font[1]</value>
+      <webElementGuid>74fe3e24-1db2-4935-b35c-6e07aff81781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Благодарим за использование Студио для подкастеров!'])[1]/preceding::font[1]</value>
+      <webElementGuid>5ac60d79-a38e-4df4-b709-5b79a9102c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Подтвердить']/parent::*</value>
+      <webElementGuid>6d9cfc97-3fe8-4c22-8a9f-cfa79c80ed99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//font</value>
+      <webElementGuid>726452ac-7425-4baf-aa6d-dcfd427962f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Подтвердить' or . = 'Подтвердить')]</value>
+      <webElementGuid>d3265b8f-308e-455f-88d1-01a5afb5fa9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Статус Заблокирован</name>
+   <tag></tag>
+   <elementGuidId>e25dbda3-9bfc-47af-ab09-92965ed3ac4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Заблокирован' or . = 'Заблокирован')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.jss327.jss329.MuiBox-root.css-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4d129f0-58c4-4cc1-b44e-73ac4d2e233b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss327 jss329 MuiBox-root css-0</value>
+      <webElementGuid>9ffd8199-cd46-43f9-997f-207085fe0bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Заблокирован</value>
+      <webElementGuid>950566ee-90a0-46df-a03b-7bcc0e002aac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;jss1 jss3&quot;]/main[@class=&quot;MuiBox-root css-1vhkzsz-Main-root&quot;]/div[@class=&quot;jss8 MuiBox-root css-1kjlpqx&quot;]/div[@class=&quot;jss320&quot;]/div[@class=&quot;jss326 MuiBox-root css-0&quot;]/span[@class=&quot;jss327 jss329 MuiBox-root css-0&quot;]</value>
+      <webElementGuid>30445c9d-54a2-4ec0-bf02-e02f428f155d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div[2]/div/div[4]/span</value>
+      <webElementGuid>eab2aed1-fd07-4ca9-b5d7-ff0ee8fcad4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tdkldxpzyf_self@mailto.plus'])[1]/following::span[1]</value>
+      <webElementGuid>1198aa61-ae64-45b3-b670-88c68001e03c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tdkldxpzyf'])[1]/following::span[3]</value>
+      <webElementGuid>3e158be7-7085-42db-8ea3-b586237c7942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Номер страницы'])[1]/preceding::span[2]</value>
+      <webElementGuid>52839616-08b2-4d25-888f-5a641a23189a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>eeb3f1c6-b2c9-4fa1-877d-bed245e80aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Заблокирован' or . = 'Заблокирован')]</value>
+      <webElementGuid>d4d77bde-53ee-4d9b-aa0c-8b0da76fc214</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

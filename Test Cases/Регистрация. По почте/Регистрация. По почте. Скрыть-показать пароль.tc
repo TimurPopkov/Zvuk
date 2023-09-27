@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Регистрация. По почте. Скрыть-показать пароль</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba0e78cc-d064-4179-adb9-3def392c90f3</testCaseGuid>
+</TestCaseEntity>

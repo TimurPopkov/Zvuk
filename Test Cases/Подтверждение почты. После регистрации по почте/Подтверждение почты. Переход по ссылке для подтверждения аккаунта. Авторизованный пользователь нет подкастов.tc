@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Подтверждение почты. Переход по ссылке для подтверждения аккаунта. Авторизованный пользователь нет подкастов</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6917727b-714a-4f45-b343-0cf2c7f39384</testCaseGuid>
+</TestCaseEntity>

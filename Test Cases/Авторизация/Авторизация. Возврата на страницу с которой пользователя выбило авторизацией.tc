@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Авторизация. Возврата на страницу с которой пользователя выбило авторизацией</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4f42b53-c200-4053-bafb-3aac2e964a63</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Почта подкастера</name>
+   <tag></tag>
+   <elementGuidId>12c755a7-a31c-4aad-8092-3c52d92fa64c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//p[2])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>727558e2-5982-4197-b38d-da2eaac1e3fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p1 css-9xuqhq-PodcasterForm-value</value>
+      <webElementGuid>13ab1439-f0ec-495c-9444-c194d42a6eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>tdkldxpzyf_self@mailto.plus</value>
+      <webElementGuid>46b42252-bde1-4df4-8643-ee2c4592e3d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-1tder41-Modal-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 Modal-paper MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm css-1rx4q0r&quot;]/div[@class=&quot;MuiDialogContent-root css-1h0u45g&quot;]/form[@class=&quot;css-x5ofyh-PodcasterForm-form&quot;]/div[@class=&quot;MuiBox-root css-1fobf8d&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-p1 css-9xuqhq-PodcasterForm-value&quot;]</value>
+      <webElementGuid>ed475213-c1c5-431f-8a45-a5fa86213b8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Блокировка'])[1]/following::p[4]</value>
+      <webElementGuid>a21d8241-93e6-4226-8225-d59bc233c10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Информация о блокировках'])[1]/following::p[4]</value>
+      <webElementGuid>f17fdd71-5047-488d-a89e-5ef46de02318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Выберите причину блокировки'])[1]/preceding::p[1]</value>
+      <webElementGuid>d640d7ee-9a34-4f91-8580-68b908dd9fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::p[1]</value>
+      <webElementGuid>4573f2fc-3b6c-4369-8c58-86e24ee1aac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[2]</value>
+      <webElementGuid>7b63ed86-5b3d-4a8f-a867-88b7efebb8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'tdkldxpzyf_self@mailto.plus' or . = 'tdkldxpzyf_self@mailto.plus')]</value>
+      <webElementGuid>74db1583-1935-49f3-963a-fc82536dc5ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

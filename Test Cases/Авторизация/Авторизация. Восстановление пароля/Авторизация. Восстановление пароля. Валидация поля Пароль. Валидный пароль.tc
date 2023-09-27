@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Авторизация. Восстановление пароля. Валидация поля Пароль. Валидный пароль</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdcddc34-01d2-4be6-9bcf-664292a0f732</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Аналитика</name>
+   <tag></tag>
+   <elementGuidId>22f25b84-9658-46cd-a597-4bd12b8640a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Аналитика' or . = 'Аналитика')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db546462-0af1-4a33-9f06-9f597b4728f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-vr31m3</value>
+      <webElementGuid>c450a12c-2408-4879-b6ad-456b3128d0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Аналитика</value>
+      <webElementGuid>0b7d6411-26f7-45f9-8b5a-0045ca20c49f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/nav[@class=&quot;css-1eu2wq9-Sidebar-root&quot;]/div[@class=&quot;css-tyints-Sidebar-menu&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-nvdwdx-SidebarList-root&quot;]/li[2]/a[@class=&quot;MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone css-d6d3zt&quot;]/div[@class=&quot;MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root  css-14cge7l-SidebarListItem-root&quot;]/div[@class=&quot;MuiListItemText-root css-1tsvksn&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-vr31m3&quot;]</value>
+      <webElementGuid>ca5aed54-9204-49ff-b1f1-55be27005df3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/nav/div[2]/ul/li[2]/a/div/div[2]/span</value>
+      <webElementGuid>0f816866-c621-4f8f-828c-acd0e910a56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Главная'])[2]/following::span[1]</value>
+      <webElementGuid>b3273a69-d9a1-4c95-8f99-4afdf83485a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Настройки подкаста'])[1]/preceding::span[1]</value>
+      <webElementGuid>7b3dac24-4a77-4105-879b-48d182bf8cad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Эпизоды'])[1]/preceding::span[2]</value>
+      <webElementGuid>8ded403f-be82-4e19-8266-d8f82d896250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Аналитика']/parent::*</value>
+      <webElementGuid>51fb49b8-a11b-4aa5-b646-cca78e2ac0ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div/div[2]/span</value>
+      <webElementGuid>a03643f2-ba04-430c-9344-7841673a6ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Аналитика' or . = 'Аналитика')]</value>
+      <webElementGuid>0d1e29fd-784b-4a17-b583-005061c2ebcd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

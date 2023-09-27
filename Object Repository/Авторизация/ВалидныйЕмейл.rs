@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ВалидныйЕмейл</name>
+   <tag></tag>
+   <elementGuidId>e970a21d-bfca-40e8-bf50-0c8254a9483e</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_/form_Email.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/main/div/div/div/form</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_/form_Email.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>43318200-0acd-4e3c-a61c-4475a301975e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ВходEmail *Пароль *ВойтиЗабыли пароль?Впервые в Студио для подкастеров?Зарегистрироваться</value>
+      <webElementGuid>4a5f3778-441a-484b-8a97-86d80c0681f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-3dyzvh-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-1xprv68-Main-root-Auth-Main-root&quot;]/div[@class=&quot;Ui-Container-withPadding MuiBox-root css-mrz6wc-Ui-Container-root&quot;]/div[@class=&quot;css-a2qr2c-Ui-Container-inner&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded css-e8dape-Auth-Main-paper&quot;]/form[1]</value>
+      <webElementGuid>8a2c527f-6834-415f-b998-641c87146b21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/form</value>
+      <webElementGuid>408e3d92-bea4-4dae-aeb3-962c59d78bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Зарегистрироваться'])[1]/following::form[1]</value>
+      <webElementGuid>f6940236-38e5-44af-bc96-1e60248e6e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>a541dbb7-fe29-4934-acdf-ca760984a142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'ВходEmail *Пароль *ВойтиЗабыли пароль?Впервые в Студио для подкастеров?Зарегистрироваться' or . = 'ВходEmail *Пароль *ВойтиЗабыли пароль?Впервые в Студио для подкастеров?Зарегистрироваться')]</value>
+      <webElementGuid>5dd2dc57-0280-4ae9-b679-78cb87c8572a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

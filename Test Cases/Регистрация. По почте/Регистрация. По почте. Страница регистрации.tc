@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>C3368 Регистрация. По почте. Страница регистрации
+C3369 Регистрация. По почте. Успешное флоу
+C3370 Регистрация. По почте. Скрыть/показать пароль
+C3371 Регистрация. По почте. Соглашение о информации WIP
+C3372 Регистрация. По почте. Валидация поля &quot;Email&quot;. Невалидный email
+C3373 Регистрация. По почте. Валидация поля &quot;Email&quot;. Валидный email
+C3374 Регистрация. По почте. Валидация поля &quot;Ваше имя&quot;. Невалидное имя
+C3375 Регистрация. По почте. Валидация поля &quot;Ваше имя&quot;. Валидное имя
+C3376 Регистрация. По почте. Валидация поля &quot;Пароль&quot;. Невалидный пароль
+C3377 Регистрация. По почте. Валидация поля &quot;Пароль&quot;. Валидный пароль
+C3378 Регистрация. По почте. Пользователь с такой почтой уже существует</description>
+   <name>Регистрация. По почте. Страница регистрации</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9ada147-1a23-477f-b575-1275b68653b1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a387e142-e184-403d-bd42-cacaf3a4f76b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c3d24a5-e757-46d1-8109-e9f044c2a049</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75fd7787-c010-4fd6-869d-5ed8c673f529</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a387e142-e184-403d-bd42-cacaf3a4f76b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c3d24a5-e757-46d1-8109-e9f044c2a049</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75fd7787-c010-4fd6-869d-5ed8c673f529</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

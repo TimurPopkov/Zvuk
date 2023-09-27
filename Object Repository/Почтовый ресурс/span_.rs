@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>c5484cbd-de89-40e8-88c8-897305dfe4e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.subj.col-12.col-md-7.px-md-3 > span.text-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Сброс пароля' or . = 'Сброс пароля')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a9158a71-c9bd-47a8-92f0-51502466a83d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-truncate</value>
+      <webElementGuid>7ebe6981-6e0f-4a90-98d3-093368b9d0a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Сброс пароля</value>
+      <webElementGuid>e79f214f-ab98-486b-b99e-3447af40f4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container-body&quot;)/div[@class=&quot;container-xl body&quot;]/div[@class=&quot;inbox&quot;]/div[@class=&quot;mail&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;subj col-12 col-md-7 px-md-3&quot;]/span[@class=&quot;text-truncate&quot;]</value>
+      <webElementGuid>190c10ba-4b60-4ccc-a19e-978963e8e676</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container-body']/div/div/div[2]/div/div[3]/span</value>
+      <webElementGuid>c5dcf229-a5b7-440d-a1fa-20a0ab9b407a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('&lt;', '&quot;', 'podcast-admin', '&quot;', '@zvuk.com>')])[1]/following::span[2]</value>
+      <webElementGuid>d900fd05-9e1c-4f57-ae8a-f8df7cb29e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('&lt;', '&quot;', 'podcast-admin', '&quot;', '@zvuk.com>')])[2]/preceding::span[1]</value>
+      <webElementGuid>9efd002f-9407-4534-a763-7f9a1d78a834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Сброс пароля']/parent::*</value>
+      <webElementGuid>f5e6f2de-abcf-4793-9070-6485974de8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/span</value>
+      <webElementGuid>4387843b-4e4d-47b8-8600-5036e69c3274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Сброс пароля' or . = 'Сброс пароля')]</value>
+      <webElementGuid>eae7f5fc-c8e9-4cc5-82f2-c9afd3aedbaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ОшибкаВведитеЕмейл</name>
+   <tag></tag>
+   <elementGuidId>2c5f3546-6c57-45e7-86a9-c240186c5e06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id = 'email-helper-text' and (text() = 'Введите email' or . = 'Введите email')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#email-helper-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e1580481-3b1a-49d8-9e25-dd3e14858c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium Mui-required css-463v7</value>
+      <webElementGuid>509c736e-83ef-4147-96b5-5b2abc5e2bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email-helper-text</value>
+      <webElementGuid>efa9750d-23cf-4d6b-a8be-9104f3aa2466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Введите email</value>
+      <webElementGuid>12da29e1-a5a3-41bb-933e-402e470dbc0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email-helper-text&quot;)</value>
+      <webElementGuid>c6663f9d-d977-4142-965d-8672152a2095</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='email-helper-text']</value>
+      <webElementGuid>c7046df1-efad-4f6b-b816-44c9abf0dfca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/form/div/p</value>
+      <webElementGuid>405d5290-12fd-46c2-ac5e-f598e95216c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Вход'])[2]/following::p[1]</value>
+      <webElementGuid>dbd6d6e3-1ea8-462b-9290-ec7f4f4e04ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Войти'])[1]/preceding::p[1]</value>
+      <webElementGuid>ff385c2d-66a2-4355-a029-cb98e38340a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Введите email']/parent::*</value>
+      <webElementGuid>8af8da9d-78f5-4f90-ad04-f8fdcc583221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>b8f5737c-cada-4e84-ad62-b89f82809ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'email-helper-text' and (text() = 'Введите email' or . = 'Введите email')]</value>
+      <webElementGuid>530e12e7-7c82-4e6e-9dc7-28a442a15ff4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

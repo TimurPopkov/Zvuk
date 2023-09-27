@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ОшибкаУжеЗарегистрирован</name>
+   <tag></tag>
+   <elementGuidId>716725b5-eb87-4185-a634-88976f0dcdcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#email-helper-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id = 'email-helper-text' and (text() = 'Пользователь с такой почтой уже существует' or . = 'Пользователь с такой почтой уже существует')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7e44f2b8-239e-4b71-a5c0-68d038174e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-filled Mui-required css-463v7</value>
+      <webElementGuid>00a833ee-4201-4b60-a7d1-2835ea323d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email-helper-text</value>
+      <webElementGuid>e7ed97ee-6543-4301-b631-7eb9c923b33d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Пользователь с такой почтой уже существует</value>
+      <webElementGuid>f08d250d-4c4b-498b-8bba-074100fa3e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email-helper-text&quot;)</value>
+      <webElementGuid>40273dc3-5ea8-42ef-8aac-1ed9bf77b25a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='email-helper-text']</value>
+      <webElementGuid>06eff7f7-2ff7-478d-b8d9-a2452621b1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reg']/main/div/div/div/form/div/p</value>
+      <webElementGuid>e2dea118-cbac-4d7e-86aa-5ded52739039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Регистрация'])[1]/following::p[2]</value>
+      <webElementGuid>cd77026a-7496-4acc-831d-dc27068a3f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Пользователь с такой почтой уже существует']/parent::*</value>
+      <webElementGuid>37b7d771-e1b9-4e8c-946d-fb0768b070e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/p</value>
+      <webElementGuid>92226fe9-c4b6-4443-a146-af94ade4afde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'email-helper-text' and (text() = 'Пользователь с такой почтой уже существует' or . = 'Пользователь с такой почтой уже существует')]</value>
+      <webElementGuid>cebcff72-ae7b-4d85-882f-ee19fce292f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

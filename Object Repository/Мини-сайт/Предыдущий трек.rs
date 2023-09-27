@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Предыдущий трек</name>
+   <tag></tag>
+   <elementGuidId>fafc0810-4fef-47e4-80b7-2d0441933774</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.MuiTypography-root.MuiTypography-p4.MuiLink-root.MuiLink-underlineNone.css-6jarx6 > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>.//a[@aria-label=&quot;Предыдущий трек&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>d234c6f4-1665-4d2b-b459-d9f891637158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>e76880ff-f50f-4089-8d59-0ba45a5245ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>3c542398-d3a0-47e9-a5bc-e34215567bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 40 40</value>
+      <webElementGuid>596e7415-3259-40cd-a19a-ede4a38d19b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>db56f70e-0edb-4baa-93ed-332c8451d2d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>1b3fe418-3a38-4554-a7d2-73e00f9378d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>display</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>b33f2dd1-5877-4c2a-9702-be87c099bbd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>2.5rem</value>
+      <webElementGuid>8d9a217f-2ffa-43d2-8fec-aeb585d243dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;PlayerContainer-playerVisible MuiBox-root css-q2xra5-PlayerContainer-root&quot;]/div[@class=&quot;MuiBox-root css-1u4cw49-Lib-Player-container&quot;]/div[@class=&quot;MuiBox-root css-1w59p24-Lib-Player-playPause&quot;]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone css-6jarx6&quot;]/svg[1]</value>
+      <webElementGuid>f2c2166e-6b69-4d9e-846a-f60da00b124d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='—'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>3175ed71-244a-4ff5-9591-6666215b8738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Тимур'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>7deed4ce-f0f0-4677-8156-693f0200135b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test2'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>3829f7f3-fa95-4e81-afb7-1d315777370b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='autotest'])[3]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>42d93558-9273-498f-a58a-0cf704700f44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

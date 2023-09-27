@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Ссылка RSS</name>
+   <tag></tag>
+   <elementGuidId>4480120a-1d26-4355-9521-7a7a69ad25b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.MuiOutlinedInput-input.MuiInputBase-input.MuiInputBase-inputAdornedEnd.css-197noz4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Rss ссылка' and @type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7211e22a-0443-4fdd-a1b1-06f7ff99b064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2a952029-4d48-4606-bd43-0197f424feb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Rss ссылка</value>
+      <webElementGuid>ee8466a0-6350-4492-9bd8-dbe619f477a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fb740389-3cf9-48f4-939a-b9408a98c7cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-197noz4</value>
+      <webElementGuid>d73fe584-ea45-4d02-a663-0b034fc95f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>https://st.zvq.me/r/16700425-4e82-4434-bf86-d5efaf7975dc/rss.xml</value>
+      <webElementGuid>7b26e936-7f99-414f-9e47-52b6b4189792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-a1abyh-Main-root&quot;]/div[@class=&quot;MuiBox-root css-uz4xfq-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-jtsohm-Podcasts-DistributionForm-root&quot;]/div[@class=&quot;MuiBox-root css-alsf6u-Podcasts-DistributionForm-rssWrap&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-feqhe6&quot;]/div[@class=&quot;MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth Mui-focused MuiInputBase-formControl MuiInputBase-adornedEnd css-gsue11&quot;]/input[@class=&quot;MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-197noz4&quot;]</value>
+      <webElementGuid>03c56279-280c-4d92-a6fb-0d11c6bafa78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='https://st.zvq.me/r/16700425-4e82-4434-bf86-d5efaf7975dc/rss.xml']</value>
+      <webElementGuid>68a96411-8cb7-4237-9d06-9913549e8290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div[2]/div/div[2]/div[3]/div/input</value>
+      <webElementGuid>2de1d937-add8-4e75-b655-4be0c4f2309b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>2f47b627-349f-4068-854a-d954a648a6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Rss ссылка' and @type = 'text']</value>
+      <webElementGuid>9b7ffc5a-b255-41c0-a360-d558a3311b4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

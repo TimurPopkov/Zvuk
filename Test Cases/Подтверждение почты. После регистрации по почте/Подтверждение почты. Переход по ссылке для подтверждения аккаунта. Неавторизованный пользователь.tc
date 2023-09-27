@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Подтверждение почты. Переход по ссылке для подтверждения аккаунта. Неавторизованный пользователь</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3709a2e-6dc5-40b6-93b3-a50d17addff6</testCaseGuid>
+</TestCaseEntity>

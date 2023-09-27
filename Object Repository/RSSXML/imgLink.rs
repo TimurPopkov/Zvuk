@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>imgLink</name>
+   <tag></tag>
+   <elementGuidId>d11a381d-743f-41e7-9bd6-f8ca664ab33c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#folder1 > div.opened > div.line > span.html-tag > span.html-attribute > span.html-attribute-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'html-attribute-value' and (contains(text(), '/poster.png') or contains(., '/poster.png'))]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'html-attribute-value' and (contains(text(), 'poster.png') or contains(., 'poster.png'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>59d1babc-969a-48fc-afae-1ef9073dde43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>html-attribute-value</value>
+      <webElementGuid>1169143c-f76a-453a-a0a7-351490f01495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>poster.png</value>
+      <webElementGuid>4a025a3b-91b8-4e70-bb44-0c97321cdf03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;folder1&quot;)/div[@class=&quot;opened&quot;]/div[@class=&quot;line&quot;]/span[@class=&quot;html-tag&quot;]/span[@class=&quot;html-attribute&quot;]/span[@class=&quot;html-attribute-value&quot;]</value>
+      <webElementGuid>f507ab9a-f751-420f-a710-81164a4281d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>//*[@class = 'html-attribute-value' and (contains(text(), '.mp3') or contains(., '.mp3'))]</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>abace651-a7ef-46ba-950e-bf10ecf87c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>//*[@class = 'html-attribute-value' and (contains(text(), 'poster.jpeg') or contains(., 'poster.jpeg'))]</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>032c06a1-d01d-473e-b61b-3e0025c8c548</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'https://st.zvooq.ru/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/poster.jpeg' or . = 'https://st.zvooq.ru/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/poster.jpeg')]</value>
+      <webElementGuid>57edcc21-1a3d-45de-99c1-d749c631f528</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

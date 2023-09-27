@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>0 процентов импорта</name>
+   <tag></tag>
+   <elementGuidId>0813d7fe-25c6-4b48-877a-2c51d3d9522f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '0%' or . = '0%')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-p3.css-qmt9wu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b1333ac7-98f4-4b75-a434-faa594e8fb86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p3 css-qmt9wu</value>
+      <webElementGuid>7bf769a0-911a-46e3-a4e2-ab9fa1f1f4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0%</value>
+      <webElementGuid>b01464d4-67de-4526-900f-adc9de918ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-3dyzvh-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-pr5jul-Main-root&quot;]/div[@class=&quot;MuiBox-root css-se72xl-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-42igfv&quot;]/div[@class=&quot;MuiBox-root css-c3v8sx-Ui-Container-root&quot;]/div[@class=&quot;css-a2qr2c-Ui-Container-inner&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded MuiCard-root css-16f9hup-Podcasts-PodcastImporting-root&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-p3 css-qmt9wu&quot;]</value>
+      <webElementGuid>81e47fe0-a060-429a-aca5-209f966fb927</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/div/div/span[3]</value>
+      <webElementGuid>734fe7c0-d1de-4434-93ca-b1a8b0dcd170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ваш подкаст импортируется'])[1]/following::span[3]</value>
+      <webElementGuid>84bfcdee-161a-4591-a5e4-5197a0be5c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Добавить эпизод'])[1]/following::span[3]</value>
+      <webElementGuid>8a93f3a9-f2e7-4c46-b65c-5aaf4d165ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отменить импорт'])[1]/preceding::span[1]</value>
+      <webElementGuid>7a44781b-795a-4dc6-80dc-c9315e70479f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0']/parent::*</value>
+      <webElementGuid>6dc1dc87-5f99-498d-9a17-7772468d68b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]</value>
+      <webElementGuid>e4f8733b-65e0-4f0c-93d3-8a62d8377c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0%' or . = '0%')]</value>
+      <webElementGuid>77ef5094-1c74-4fc0-993e-a1c575e2619c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

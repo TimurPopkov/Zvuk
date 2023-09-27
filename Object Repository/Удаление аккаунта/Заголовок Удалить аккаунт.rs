@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Заголовок Удалить аккаунт</name>
+   <tag></tag>
+   <elementGuidId>8bd0d527-6979-489f-afe2-d21d3cfa38fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Удалить аккаунт' or . = 'Удалить аккаунт')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-h5.css-gvutva</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>175041ef-936e-446d-882b-27e4c7c05d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h5 css-gvutva</value>
+      <webElementGuid>a636e66a-0482-4825-a72f-e51f5977d0ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Удалить аккаунт</value>
+      <webElementGuid>4cc4d5d1-d390-43a5-abdd-b837d460010b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-y0mund-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-150j08n-Main-root&quot;]/div[@class=&quot;MuiBox-root css-uz4xfq-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-c3v8sx-Ui-Container-root&quot;]/div[@class=&quot;css-1gqp5wz-Ui-Container-inner&quot;]/div[@class=&quot;MuiBox-root css-1iag4bj&quot;]/div[@class=&quot;MuiBox-root css-1ws491f&quot;]/div[@class=&quot;css-ra15ob&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-blur MuiPaper-rounded MuiCard-root css-1agl10a&quot;]/div[@class=&quot;MuiCardContent-root css-drw0oh&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-h5 css-gvutva&quot;]</value>
+      <webElementGuid>d6a115d3-337d-4dcb-b443-41d910d3ecc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/div/div/div/div[2]/div/div/div[2]/div/p</value>
+      <webElementGuid>f783eec8-eaee-4e88-ad61-a91a24336e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Изменить пароль'])[1]/following::p[1]</value>
+      <webElementGuid>5da1ec36-23aa-4a2f-b833-ce4397cd6a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Одну заглавную букву'])[1]/following::p[1]</value>
+      <webElementGuid>98b03e0f-c3be-4ff8-abe2-9af638a8e899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Удалить']/parent::*</value>
+      <webElementGuid>8e72fdb2-649b-4252-b0ae-c3a6fea3595f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>c46e9d94-4358-4cff-a92e-cc51d40f6645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Удалить аккаунт' or . = 'Удалить аккаунт')]</value>
+      <webElementGuid>c9a5c2f3-f918-4bd7-8714-3230d5210218</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
