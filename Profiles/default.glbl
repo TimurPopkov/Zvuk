@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description>https://st.zvuk.com; https://st.zvq.me</description>
-      <initValue>'https://st.zvq.me'</initValue>
+      <initValue>'https://st.zvuk.com'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -101,13 +101,23 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://web-admin-preprod-k8s.zvq.me/'</initValue>
+      <initValue>'https://web-admin-preprod-k8s.zvq.me'</initValue>
       <name>urlAPM</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://web-admin-preprod-k8s.zvq.me/'</initValue>
+      <initValue>'https://web-admin-dev-stage.zvq.me'</initValue>
+      <name>urlAPMdev</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://web-admin-preprod-k8s.zvq.me'</initValue>
       <name>urlAPMpreprod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://web-admin-prod-k8s.zvq.me'</initValue>
+      <name>urlAPMprod</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>

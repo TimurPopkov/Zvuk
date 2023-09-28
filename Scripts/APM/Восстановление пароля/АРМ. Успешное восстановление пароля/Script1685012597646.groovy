@@ -17,6 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Открытие браузера'), [:], FailureHandling.STOP_ON_FAILURE)
+
+switch (GlobalVariable.url) {
+    case GlobalVariable.dev:
+        GlobalVariable.urlAPM = GlobalVariable.urlAPMdev
+
+        break
+    case GlobalVariable.preprod:
+        GlobalVariable.urlAPM = GlobalVariable.urlAPMpreprod
+
+        break
+    case GlobalVariable.prod:
+        GlobalVariable.urlAPM = GlobalVariable.urlAPMprod
+
+        break
+}
+
 WebUI.navigateToUrl(GlobalVariable.urlAPM)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/АРМ/АРМ. Авторизация/Вход'), FailureHandling.STOP_ON_FAILURE)
