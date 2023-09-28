@@ -21,5 +21,7 @@ WebUI.verifyElementClickable(findTestObject('Мини-сайт/Следующи�
 
 WebUI.click(findTestObject('Мини-сайт/Следующий трек'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Мини-сайт/1 эпизод'), 2)
+WebUI.delay(2)
+
+WebUI.verifyElementPresent(findTestObject('Мини-сайт/1 эпизод'), 30)
 

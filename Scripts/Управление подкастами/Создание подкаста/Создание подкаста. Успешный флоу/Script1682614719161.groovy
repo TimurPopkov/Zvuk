@@ -17,6 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+String dirName = System.getProperty('user.dir')
+
+
 WebUI.click(findTestObject('Object Repository/Меню подкастов/Управление подкастами'))
 
 WebUI.click(findTestObject('Object Repository/Меню подкастов/Создать новый'))
@@ -29,7 +32,7 @@ WebUI.sendKeys(findTestObject('Object Repository/Форма создания п�
 
 WebUI.click(findTestObject('Object Repository/Форма создания подкаста/02. Обложка'))
 
-WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Форма создания подкаста/Загрузить изображение'), GlobalVariable.picture)
+WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Форма создания подкаста/Загрузить изображение'), dirName + GlobalVariable.picture)
 
 WebUI.click(findTestObject('Object Repository/Форма создания подкаста/Сохранить'))
 

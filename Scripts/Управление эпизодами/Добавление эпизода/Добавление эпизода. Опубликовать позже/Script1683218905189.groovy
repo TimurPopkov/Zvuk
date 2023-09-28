@@ -18,12 +18,16 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Calendar as Calendar
+import com.kms.katalon.core.configuration.RunConfiguration as RC
+
+String dirName = System.getProperty('user.dir')
 
 // Создаем объект Calendar и устанавливаем текущую дату и время
 Calendar calendar = Calendar.getInstance()
 
 // Добавляем 1,3 минуты к текущему времени
 calendar.add(Calendar.MINUTE, 1)
+
 calendar.add(Calendar.SECOND, 20)
 
 // Получаем новую дату и время после добавления одной минуты
@@ -33,7 +37,7 @@ WebUI.verifyElementClickable(findTestObject('Дашбоард/Добавить �
 
 WebUI.click(findTestObject('Дашбоард/Добавить эпизод'))
 
-WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Форма создания эпизода/Загрузить аудиодорожку'), GlobalVariable.audio)
+WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Форма создания эпизода/Загрузить аудиодорожку'), dirName + GlobalVariable.audio)
 
 WebUI.setText(findTestObject('Object Repository/Форма создания эпизода/Имя эпизода'), 'Deffered')
 
@@ -50,4 +54,6 @@ WebUI.click(findTestObject('Object Repository/Форма создания эпи
 WebUI.click(findTestObject('Object Repository/Форма создания эпизода/Опубликовать эпизод'))
 
 WebUI.verifyElementText(findTestObject('Список эпизодов/Отложен'), 'Отложен')
+
+
 

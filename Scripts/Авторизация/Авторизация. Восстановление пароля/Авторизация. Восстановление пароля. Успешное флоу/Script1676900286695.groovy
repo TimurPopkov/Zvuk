@@ -21,6 +21,8 @@ WebUI.click(findTestObject('Object Repository/Авторизация/Забыл�
 
 WebUI.setText(findTestObject('Object Repository/Авторизация/Почта'), GlobalVariable.email)
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/Восстановление пароля/Сбросить пароль'))
 
 WebUI.verifyElementPresent(findTestObject('Восстановление пароля/Перейдите по ссылке из письма'), 30)
@@ -29,7 +31,7 @@ WebUI.navigateToUrl(GlobalVariable.emailServices)
 
 WebUI.doubleClick(findTestObject('Почтовый ресурс/Емеил'))
 
-WebUI.sendKeys(findTestObject('Почтовый ресурс/Емеил'), GlobalVariable.name+'_self')
+WebUI.sendKeys(findTestObject('Почтовый ресурс/Емеил'), GlobalVariable.name + '_self')
 
 WebUI.click(findTestObject('Object Repository/Почтовый ресурс/Заголовок'))
 

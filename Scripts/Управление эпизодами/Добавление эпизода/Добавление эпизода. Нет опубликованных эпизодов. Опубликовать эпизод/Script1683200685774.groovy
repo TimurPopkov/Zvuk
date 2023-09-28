@@ -17,11 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+String dirName = System.getProperty('user.dir')
+
 WebUI.verifyElementClickable(findTestObject('Дашбоард/Добавить эпизод'))
 
 WebUI.click(findTestObject('Дашбоард/Добавить эпизод'))
 
-WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Форма создания эпизода/Загрузить аудиодорожку'), GlobalVariable.audio)
+WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Форма создания эпизода/Загрузить аудиодорожку'), dirName + GlobalVariable.audio)
 
 WebUI.setText(findTestObject('Object Repository/Форма создания эпизода/Имя эпизода'), 'Published')
 
