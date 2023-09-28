@@ -101,7 +101,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://web-admin-preprod-k8s.zvq.me'</initValue>
+      <initValue>'https://web-admin-prod-k8s.zvq.me'</initValue>
       <name>urlAPM</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
