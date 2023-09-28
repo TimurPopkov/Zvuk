@@ -20,40 +20,43 @@ import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Calendar as Calendar
 import com.kms.katalon.core.configuration.RunConfiguration as RC
 
-String dirName = System.getProperty('user.dir')
+String dirName = RC.getProjectDir()
+
+
 
 // Создаем объект Calendar и устанавливаем текущую дату и время
-Calendar calendar = Calendar.getInstance()
+not_run: Calendar calendar = Calendar.getInstance()
 
 // Добавляем 1,3 минуты к текущему времени
-calendar.add(Calendar.MINUTE, 1)
+not_run: calendar.add(Calendar.MINUTE, 1)
 
-calendar.add(Calendar.SECOND, 20)
+not_run: calendar.add(Calendar.SECOND, 20)
 
 // Получаем новую дату и время после добавления одной минуты
-String formattedDate = new SimpleDateFormat('dd.MM.yyyy HH:mm').format(calendar.time)
+not_run: String formattedDate = new SimpleDateFormat('dd.MM.yyyy HH:mm').format(calendar.time)
 
-WebUI.verifyElementClickable(findTestObject('Дашбоард/Добавить эпизод'))
+not_run: WebUI.verifyElementClickable(findTestObject('Дашбоард/Добавить эпизод'))
 
-WebUI.click(findTestObject('Дашбоард/Добавить эпизод'))
+not_run: WebUI.click(findTestObject('Дашбоард/Добавить эпизод'))
 
-WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Форма создания эпизода/Загрузить аудиодорожку'), dirName + GlobalVariable.audio)
+not_run: WebUI.uploadFileWithDragAndDrop(findTestObject('Object Repository/Форма создания эпизода/Загрузить аудиодорожку'), 
+    dirName + GlobalVariable.audio)
 
-WebUI.setText(findTestObject('Object Repository/Форма создания эпизода/Имя эпизода'), 'Deffered')
+not_run: WebUI.setText(findTestObject('Object Repository/Форма создания эпизода/Имя эпизода'), 'Deffered')
 
-WebUI.setText(findTestObject('Object Repository/Форма создания эпизода/Номер сезона'), '1')
+not_run: WebUI.setText(findTestObject('Object Repository/Форма создания эпизода/Номер сезона'), '1')
 
-WebUI.setText(findTestObject('Object Repository/Форма создания эпизода/Номер эпизода'), '2')
+not_run: WebUI.setText(findTestObject('Object Repository/Форма создания эпизода/Номер эпизода'), '2')
 
-WebUI.setText(findTestObject('Форма создания эпизода/Опубликовать позже'), formattedDate)
+not_run: WebUI.setText(findTestObject('Форма создания эпизода/Опубликовать позже'), formattedDate)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Форма создания эпизода/Далее'))
+not_run: WebUI.verifyElementClickable(findTestObject('Object Repository/Форма создания эпизода/Далее'))
 
-WebUI.click(findTestObject('Object Repository/Форма создания эпизода/Далее'))
+not_run: WebUI.click(findTestObject('Object Repository/Форма создания эпизода/Далее'))
 
-WebUI.click(findTestObject('Object Repository/Форма создания эпизода/Опубликовать эпизод'))
+not_run: WebUI.click(findTestObject('Object Repository/Форма создания эпизода/Опубликовать эпизод'))
 
-WebUI.verifyElementText(findTestObject('Список эпизодов/Отложен'), 'Отложен')
+not_run: WebUI.verifyElementText(findTestObject('Список эпизодов/Отложен'), 'Отложен')
 
 
 

@@ -61,12 +61,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'\\Include\\Audio\\testAudio.mp3'</initValue>
+      <initValue>'/Include/Audio/testAudio.mp3'</initValue>
       <name>audio</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'\\Include\\Photo\\image.png'</initValue>
+      <initValue>'/Include/Photo/image.png'</initValue>
       <name>picture</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
