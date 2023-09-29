@@ -23,5 +23,7 @@ WebUI.setText(findTestObject('АРМ/АРМ. Авторизация/Почта')
 
 WebUI.setText(findTestObject('АРМ/АРМ. Авторизация/Пароль'), GlobalVariable.passwordAdm)
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('АРМ/АРМ. Авторизация/Войти'))
 
