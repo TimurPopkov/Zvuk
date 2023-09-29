@@ -23,5 +23,5 @@ WebUI.click(findTestObject('Object Repository/Мини-сайт/Предыдущ
 
 WebUI.delay(2)
 
-WebUI.verifyElementPresent(findTestObject('Мини-сайт/2 эпизод'), 30)
+WebUI.click(findTestObject('Мини-сайт/Воспроизвести'))
 

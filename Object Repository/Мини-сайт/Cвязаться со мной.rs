@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>846bdde7-5cd5-4fe0-be6e-0a4effc2152d</webElementGuid>
+      <webElementGuid>8180e803-352f-4a33-9e3c-ce91845f6ceb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButton-fullWidth MuiButtonBase-root  css-8esi8n</value>
-      <webElementGuid>d195c652-b907-4c77-9115-541f2daf1949</webElementGuid>
+      <webElementGuid>46d5015a-f08a-4488-8452-36b0d9aabce9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d0c0c232-2db4-403f-90a3-28fa2ae0834a</webElementGuid>
+      <webElementGuid>4d69406e-0b22-4925-8c72-952eca8c41a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>link</value>
-      <webElementGuid>169fa4af-bb97-4883-a2c7-0b7e7fd359e2</webElementGuid>
+      <webElementGuid>58d82299-bad0-42bd-b7f3-4e32006e61a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>mailto:brembo@mailto.plus</value>
-      <webElementGuid>35f00df9-81cf-4cbd-adee-e3ba19caf5a7</webElementGuid>
+      <webElementGuid>bcd1208b-aeb1-4054-9e21-1f1136ab7fcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cвязаться со мной</value>
-      <webElementGuid>b8caba22-a9ce-444a-b6ff-b0cd8f2fe9f6</webElementGuid>
+      <webElementGuid>ff0dca30-7c26-49eb-be7a-ed6c17635574</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;css-n2uxri-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-6rvsfg-Main-root&quot;]/div[@class=&quot;MuiBox-root css-zmnw5a-Main-gradient&quot;]/div[@class=&quot;MuiBox-root css-79elbk&quot;]/div[@class=&quot;MuiBox-root css-a91i4s-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-1sdgq76-Podcast-InfoBlock-root&quot;]/div[@class=&quot;MuiBox-root css-1shqpao-Podcast-InfoBlock-contactsWrapper&quot;]/a[@class=&quot;MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButton-fullWidth MuiButtonBase-root  css-8esi8n&quot;]</value>
-      <webElementGuid>c860014d-bde7-41fe-b6cf-5aaf511db41d</webElementGuid>
+      <webElementGuid>60a644b2-8b6a-4ec2-af3c-36df6715bd37</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@type='link']</value>
-      <webElementGuid>a8d18e98-ef85-42e3-9cef-8e0a1c32b12a</webElementGuid>
+      <webElementGuid>489aab76-91af-47d4-a055-8589579dcde9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[2]/main/div/div/div/div/div[2]/a</value>
-      <webElementGuid>403ff258-a22b-4847-98fb-853c58553ee3</webElementGuid>
+      <webElementGuid>2ba20d68-6672-4f6a-8592-9aba95f1b11e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Cвязаться со мной')]</value>
-      <webElementGuid>33a039d9-af14-4a6b-8af2-7a8bf491e425</webElementGuid>
+      <webElementGuid>1d06ba31-08e8-41cc-978a-083bc91e5f13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='autotest'])[1]/preceding::a[1]</value>
-      <webElementGuid>f2a09842-727f-4ef4-8148-da293a959c3f</webElementGuid>
+      <webElementGuid>49faad41-878f-4aaa-aa3c-cd4305ba6c8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='timur'])[1]/preceding::a[1]</value>
-      <webElementGuid>aced4bff-4840-42f1-80dd-3204e79e9ab8</webElementGuid>
+      <webElementGuid>879ef7c9-a4e3-4706-8b24-6b293377d4d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cвязаться со мной']/parent::*</value>
-      <webElementGuid>e6723876-044d-474f-8848-69714b383982</webElementGuid>
+      <webElementGuid>027686e2-f02f-40d4-b1bb-40552f28de63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'mailto:brembo@mailto.plus')]</value>
-      <webElementGuid>ae605d92-efe5-488d-a683-88eed7082fc3</webElementGuid>
+      <webElementGuid>d12bc7ef-c548-4bb7-93b4-9fdd8ed8cea1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>ca587d65-6732-49af-af20-baf898af33dc</webElementGuid>
+      <webElementGuid>ad2286d4-9974-468d-9cfe-e81cf4ebf4e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@type = 'link' and @href = 'mailto:brembo@mailto.plus' and (text() = 'Cвязаться со мной' or . = 'Cвязаться со мной')]</value>
-      <webElementGuid>75db2011-2310-4a53-a9a7-44708727002d</webElementGuid>
+      <webElementGuid>c17f3d6b-a02c-4d6c-9cfa-26da43c35927</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

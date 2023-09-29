@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>dc858763-95a2-4c7b-b347-d7550b03045d</webElementGuid>
+      <webElementGuid>be3d36a7-5f17-4b1b-acfe-d995f0b541d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-p1 css-1199qef-Podcast-InfoBlock-info</value>
-      <webElementGuid>f49ef79c-8e19-42e0-9e42-6fbf9f0cbc41</webElementGuid>
+      <webElementGuid>67bfbea9-7a7e-4654-8fb4-c07c6059fe17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Автор: timurКатегория: Бизнес: Инвестиции</value>
-      <webElementGuid>6794034a-317c-4391-ad2f-1b90bd9cba41</webElementGuid>
+      <webElementGuid>618f5286-5fe1-41b8-b839-bb9fe3f26d35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;css-n2uxri-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-6rvsfg-Main-root&quot;]/div[@class=&quot;MuiBox-root css-zmnw5a-Main-gradient&quot;]/div[@class=&quot;MuiBox-root css-79elbk&quot;]/div[@class=&quot;MuiBox-root css-a91i4s-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-1sdgq76-Podcast-InfoBlock-root&quot;]/div[@class=&quot;css-vpup35-Podcast-InfoBlock-content&quot;]/div[@class=&quot;css-zmv2sl-Podcast-InfoBlock-headingWrap&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-p1 css-1199qef-Podcast-InfoBlock-info&quot;]</value>
-      <webElementGuid>69512c29-1b64-4988-bf8f-2bc514cfc7a1</webElementGuid>
+      <webElementGuid>c76bf1e7-7913-45ba-bf6e-60eda8aab74c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[2]/main/div/div/div/div/div[3]/div/p</value>
-      <webElementGuid>b8e979d9-bd00-48a3-bd15-949d7d45162e</webElementGuid>
+      <webElementGuid>dd3ee264-3fd6-460d-b9f7-b3343ea1ace9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='autotest'])[1]/following::p[1]</value>
-      <webElementGuid>7e3bd99c-4df6-438c-ac5d-f45e0424eb81</webElementGuid>
+      <webElementGuid>4c7b4157-f275-47ce-b3d9-c3f90ee5ef30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cвязаться со мной'])[1]/following::p[1]</value>
-      <webElementGuid>248fdb73-8ddb-497e-9ab6-c187187c450d</webElementGuid>
+      <webElementGuid>bc3cf885-097c-4ad7-8270-e5e6ede7094c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Автор:']/parent::*</value>
-      <webElementGuid>cd5faad2-0c4b-4cd7-a3d8-8576005bc0c8</webElementGuid>
+      <webElementGuid>7e7954cd-79e0-4045-906c-4d8f1b217851</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>87bfd66a-375b-4920-a3a7-f5742cf787e9</webElementGuid>
+      <webElementGuid>1c57ec40-991e-4aa2-8ef0-b56892c83ae1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Автор: timurКатегория: Бизнес: Инвестиции' or . = 'Автор: timurКатегория: Бизнес: Инвестиции')]</value>
-      <webElementGuid>2c4b2dbd-14ce-4295-9e76-b41d1e543292</webElementGuid>
+      <webElementGuid>e2447e21-f9ee-4a7a-912b-e737308887f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

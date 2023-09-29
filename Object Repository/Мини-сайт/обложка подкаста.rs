@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>e704b1b0-41c1-451a-a2af-1658d549e678</webElementGuid>
+      <webElementGuid>f3cfb66d-0ba5-4bb9-8840-6b9951795cfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>обложка подкаста</value>
-      <webElementGuid>2abe0dbf-5885-4c94-9ff0-7672ecab43f3</webElementGuid>
+      <webElementGuid>ea3342c8-d612-473f-b08b-fa0db9b2cc94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://st.zvq.me/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/poster.jpeg?size=335&amp;1684302730436</value>
-      <webElementGuid>3f55845a-eb30-45d7-90b3-0af1b142294a</webElementGuid>
+      <webElementGuid>bd400755-d6ea-442a-a2a8-c4ddf79de1af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>58089ee7-9a28-415b-a075-97e032f60a44</webElementGuid>
+      <webElementGuid>dc720864-a7fb-4a5b-a5da-f7332366f7f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-nimg</name>
       <type>Main</type>
       <value>fill</value>
-      <webElementGuid>6eaf0f47-fe78-4ca0-a334-1c6df1f0ca5e</webElementGuid>
+      <webElementGuid>e94111c3-45ff-4e83-93b3-4bb8ff177d2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value> css-almznq-Image-root</value>
-      <webElementGuid>0bb6542e-edd2-46e4-a1a9-d7825777413e</webElementGuid>
+      <webElementGuid>5cbfb810-2b33-4f61-b0dc-9542bb7a630c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;css-n2uxri-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-6rvsfg-Main-root&quot;]/div[@class=&quot;MuiBox-root css-zmnw5a-Main-gradient&quot;]/div[@class=&quot;MuiBox-root css-79elbk&quot;]/div[@class=&quot;MuiBox-root css-a91i4s-Main-Content-root&quot;]/div[@class=&quot;MuiBox-root css-1sdgq76-Podcast-InfoBlock-root&quot;]/div[@class=&quot;MuiBox-root css-12cav-Podcast-InfoBlock-coverWrapper&quot;]/span[1]/img[@class=&quot;css-almznq-Image-root&quot;]</value>
-      <webElementGuid>33a36599-d7b8-404a-9a9e-3801181e0d85</webElementGuid>
+      <webElementGuid>eaab4f06-48c8-4f99-83d7-04ee43849c00</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[2]/main/div/div/div/div/div/span/img</value>
-      <webElementGuid>35c31f80-e731-48cb-92c4-0a2ebfdf38f0</webElementGuid>
+      <webElementGuid>263e566f-a7aa-4313-96d2-fa63a2fcd950</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='обложка подкаста']</value>
-      <webElementGuid>ef32e218-3fff-4cb1-aa17-837eb11d6deb</webElementGuid>
+      <webElementGuid>76276ab1-13fc-4ef2-8529-556b0e1b510c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/span/img</value>
-      <webElementGuid>de00f042-ba16-4194-8e88-a321f3f56ad3</webElementGuid>
+      <webElementGuid>dbb97db2-1f28-4bfb-a587-3bec2a7a7a91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'обложка подкаста' and @src = 'https://st.zvq.me/r/e2cbada4-99a2-4cde-86f9-0c94473b8e83/poster.jpeg?size=335&amp;1684302730436']</value>
-      <webElementGuid>a952d3e4-e231-44c6-9ebe-c950f96d9f95</webElementGuid>
+      <webElementGuid>39104ba6-9926-40ae-8042-693d7752f6ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6c923ee0-ba36-46a3-9160-deb72a5216c5</webElementGuid>
+      <webElementGuid>b3fdf016-e63c-4608-81a4-442fc5550099</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value> css-172av7n-Episodes-EpisodeListItem-root</value>
-      <webElementGuid>bd02db83-4591-409c-a0cd-7e35c47cb555</webElementGuid>
+      <webElementGuid>220ae4c6-b40d-464f-b8e2-8b3c764cc00f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2test223 мая 202303:01</value>
-      <webElementGuid>653cdb4d-8824-444a-974f-a91c3903d182</webElementGuid>
+      <webElementGuid>139790be-d365-442d-b78d-ca25467eeaf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;css-n2uxri-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-6rvsfg-Main-root&quot;]/div[@class=&quot;MuiBox-root css-zmnw5a-Main-gradient&quot;]/div[@class=&quot;MuiBox-root css-79elbk&quot;]/div[@class=&quot;MuiBox-root css-a91i4s-Main-Content-root&quot;]/div[@class=&quot;css-yw8f5b&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-f1ry9y-Episodes-EpisodeList-itemsWrapper&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-172av7n-Episodes-EpisodeListItem-root&quot;]</value>
-      <webElementGuid>03765854-0503-4fed-91f8-cc6560d137f7</webElementGuid>
+      <webElementGuid>7ec2728d-0f57-4aca-a9f9-ada0ae883365</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[2]/main/div/div/div/div[2]/div[2]/div/div/div</value>
-      <webElementGuid>608e0cbe-6db0-426c-af15-064a1d6350a3</webElementGuid>
+      <webElementGuid>bb056ef1-35aa-4262-8111-d8ecb4f1fd9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Сезон 1'])[1]/following::div[2]</value>
-      <webElementGuid>6d1393fd-d7b8-4536-b109-5e3389dbf22a</webElementGuid>
+      <webElementGuid>592f1e12-0d3c-426d-a0b7-5ee4c441bc08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[4]</value>
-      <webElementGuid>133216d6-a2d6-4fe9-b9c7-b893a8122719</webElementGuid>
+      <webElementGuid>4736e05c-b2a0-47d2-8e20-1b3d53698fbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Тимур'])[1]/preceding::div[9]</value>
-      <webElementGuid>3d7d6eb9-94aa-44ad-a69d-3b812e0bd6a8</webElementGuid>
+      <webElementGuid>0a37f091-44b8-43ad-a2a1-662aee6e228a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div</value>
-      <webElementGuid>477d4daf-a553-40b6-9435-bc356a7ef3f4</webElementGuid>
+      <webElementGuid>eb57258a-b4e2-4bcf-b9fa-4e37fb2d69af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '2test223 мая 202303:01' or . = '2test223 мая 202303:01')]</value>
-      <webElementGuid>a8e51ccc-3128-4b45-bdd7-d34007d93c6f</webElementGuid>
+      <webElementGuid>20eb2ee6-23f5-4ee0-8b72-156a69e0f783</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

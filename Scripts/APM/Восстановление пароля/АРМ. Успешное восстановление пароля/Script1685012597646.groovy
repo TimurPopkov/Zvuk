@@ -72,6 +72,8 @@ WebUI.sendKeys(findTestObject('Object Repository/Почтовый ресурс/�
 
 WebUI.click(findTestObject('Object Repository/Почтовый ресурс/Заголовок'))
 
+WebUI.verifyElementPresent(findTestObject('Почтовый ресурс/Сброс пароля'), 360)
+
 WebUI.click(findTestObject('Object Repository/Почтовый ресурс/Сброс пароля'))
 
 WebUI.click(findTestObject('Object Repository/Почтовый ресурс/Восстановить пароль'))

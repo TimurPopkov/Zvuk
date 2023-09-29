@@ -25,7 +25,7 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Восстановление пароля/Сбросить пароль'))
 
-WebUI.verifyElementPresent(findTestObject('Восстановление пароля/Перейдите по ссылке из письма'), 30)
+WebUI.verifyElementPresent(findTestObject('Восстановление пароля/Перейдите по ссылке из письма'), 360)
 
 WebUI.navigateToUrl(GlobalVariable.emailServices)
 

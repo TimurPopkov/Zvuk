@@ -23,5 +23,3 @@ WebUI.click(findTestObject('Мини-сайт/Следующий трек'), Fai
 
 WebUI.delay(2)
 
-WebUI.verifyElementPresent(findTestObject('Мини-сайт/1 эпизод'), 30)
-

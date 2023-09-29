@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.testobject.ObjectRepository as ObjectRepository
 import org.openqa.selenium.WebElement as WebElement
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Мини-сайт/обложка подкаста'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Мини-сайт/Обложка подкаста'))
 
-WebUI.verifyElementText(findTestObject('Мини-сайт/Имя подкаста'), GlobalVariable.name)
+WebUI.verifyElementText(findTestObject('Object Repository/Мини-сайт/Имя подкаста'), GlobalVariable.name)
 
-WebUI.verifyElementText(findTestObject('Мини-сайт/Параграф'), 'Автор: ТимурКатегория: Бизнес: Инвестиции')
+WebUI.verifyElementText(findTestObject('Object Repository/Мини-сайт/Параграф'), 'Автор: ТимурКатегория: Бизнес: Инвестиции')
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/Мини-сайт/Скопировать RSS'), 0)
 
@@ -33,13 +33,13 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Мини-сайт/�
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Мини-сайт/Списокэпизодов'), 1)
 
-def listElement = WebUI.findWebElements(findTestObject('Object Repository/Мини-сайт/Списокэпизодов'), 2).findAll()
+WebUI.delay(120)
 
-if (listElement.size() == 1) {
-    //WebUI.delay(10)
-	WebUI.refresh()
-    WebUI.verifyElementPresent(listElement.get(1), 90)
-}
+WebUI.refresh()
 
+WebUI.verifyElementPresent(findTestObject('Мини-сайт/Эпизод_Deffered'), 360)
 
+WebUI.verifyElementPresent(findTestObject('Мини-сайт/Эпизод_Published'), 360)
+
+WebUI.refresh()
 

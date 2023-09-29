@@ -19,10 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl(GlobalVariable.url + '/w/dashboard')
 
-not_run: WebUI.click(findTestObject('Object Repository/Меню подкастов/Управление подкастами'))
-
-not_run: WebUI.click(findTestObject('Object Repository/Меню подкастов/Созданый подкаст из списка'))
-
 checkUpdateStatistic = WebUI.getText(findTestObject('Дашбоард/Статистика/Виджеты/Аудитория'))
 
 if (checkUpdateStatistic == '0') {

@@ -55,11 +55,13 @@ WebUI.sendKeys(findTestObject('Object Repository/Почтовый ресурс/�
 
 WebUI.clickOffset(findTestObject('Object Repository/Почтовый ресурс/Заголовок'), 0, 0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Почтовый ресурс/Подтверждение права на подкаст'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Почтовый ресурс/Подтверждение права на подкаст'), 360)
 
 WebUI.click(findTestObject('Object Repository/Почтовый ресурс/Подтверждение права на подкаст'))
 
 WebUI.click(findTestObject('Object Repository/Почтовый ресурс/ссылке'))
+
+WebUI.delay(15)
 
 WebUI.switchToWindowTitle('Импорт подкаста - Newtest')
 
