@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Эпизод_Published</name>
+   <tag></tag>
+   <elementGuidId>eeae6a24-2d78-4e48-90a2-e99a92801ab9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@title = 'Published' and (text() = 'Published' or . = 'Published')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a43860ed-f28e-4e79-b39a-0ca4c7a4cde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p3 MuiTypography-noWrap Episodes-EpisodeListItem-title css-jjo3rn-Episodes-EpisodeListItem-title</value>
+      <webElementGuid>600f316c-5dad-4ff3-9e42-e8f49f4508e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Public</value>
+      <webElementGuid>4eebbf36-d2ff-4825-be88-8806a225373f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Public</value>
+      <webElementGuid>6ead125d-2e26-4a7e-99ff-2eacbc64d03a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-1gi4scp-Snackbar-container&quot;]/div[@class=&quot;css-n2uxri-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-6rvsfg-Main-root&quot;]/div[@class=&quot;MuiBox-root css-zmnw5a-Main-gradient&quot;]/div[@class=&quot;MuiBox-root css-79elbk&quot;]/div[@class=&quot;MuiBox-root css-a91i4s-Main-Content-root&quot;]/div[@class=&quot;css-yw8f5b&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-f1ry9y-Episodes-EpisodeList-itemsWrapper&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-172av7n-Episodes-EpisodeListItem-root&quot;]/div[@class=&quot;css-3pr876-Episodes-EpisodeListItem-nameDateContainer&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone css-1qgjq9m-Episodes-EpisodeListItem-link&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-p3 MuiTypography-noWrap Episodes-EpisodeListItem-title css-jjo3rn-Episodes-EpisodeListItem-title&quot;]</value>
+      <webElementGuid>c2369759-5bae-4191-9cf9-61a5d3ac5b10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div/div/div[2]/div[2]/div/div[2]/div/div[3]/a/span</value>
+      <webElementGuid>d25d63e9-c105-49c0-837a-eff4c091d6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/following::span[6]</value>
+      <webElementGuid>80173804-22d2-41d6-860f-3c4757ff0128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Сезон 1'])[1]/following::span[10]</value>
+      <webElementGuid>38f6a88a-983f-4b85-9de4-6de49298731b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Политика обработки персональных данных'])[1]/preceding::span[3]</value>
+      <webElementGuid>516c5394-8dfb-41c3-84ce-c168772ecc0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Оферта на предоставление простой (неисключительной) лицензии'])[1]/preceding::span[4]</value>
+      <webElementGuid>5de11c4c-3d2f-4eca-ab61-136bec12808b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Public']/parent::*</value>
+      <webElementGuid>5ab59884-5b7b-4e61-a8b0-c653a7c4c157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/a/span</value>
+      <webElementGuid>10c3db74-7e52-4489-add9-c560d83a7d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Public' and (text() = 'Public' or . = 'Public')]</value>
+      <webElementGuid>7517c900-440e-4e0b-a264-3f4675e79524</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

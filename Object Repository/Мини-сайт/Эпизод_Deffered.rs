@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Эпизод_Deffered</name>
+   <tag></tag>
+   <elementGuidId>ab6fd637-6059-453a-9c51-83b49a79c810</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-p3.MuiTypography-noWrap.Episodes-EpisodeListItem-title.css-jjo3rn-Episodes-EpisodeListItem-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@title = 'Deffered' and (text() = 'Deffered' or . = 'Deffered')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51295158-359d-42cd-ba2a-8fd92157b5fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-p3 MuiTypography-noWrap Episodes-EpisodeListItem-title css-jjo3rn-Episodes-EpisodeListItem-title</value>
+      <webElementGuid>29c3c55e-ee82-4b16-a5c5-870dd499bc2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Draft</value>
+      <webElementGuid>a5f2ccfa-69da-4381-b069-6b3103a75b8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Draft</value>
+      <webElementGuid>90aa246a-71ee-4e23-9418-8bd394861ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-1gi4scp-Snackbar-container&quot;]/div[@class=&quot;css-n2uxri-Layout-root&quot;]/main[@class=&quot;MuiBox-root css-6rvsfg-Main-root&quot;]/div[@class=&quot;MuiBox-root css-zmnw5a-Main-gradient&quot;]/div[@class=&quot;MuiBox-root css-79elbk&quot;]/div[@class=&quot;MuiBox-root css-a91i4s-Main-Content-root&quot;]/div[@class=&quot;css-yw8f5b&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-f1ry9y-Episodes-EpisodeList-itemsWrapper&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-172av7n-Episodes-EpisodeListItem-root&quot;]/div[@class=&quot;css-3pr876-Episodes-EpisodeListItem-nameDateContainer&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-p4 MuiLink-root MuiLink-underlineNone css-1qgjq9m-Episodes-EpisodeListItem-link&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-p3 MuiTypography-noWrap Episodes-EpisodeListItem-title css-jjo3rn-Episodes-EpisodeListItem-title&quot;]</value>
+      <webElementGuid>62c28d15-f7cc-4c68-9ee2-b61652da5dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div/div/div[2]/div[2]/div/div/div/div[3]/a/span</value>
+      <webElementGuid>1a5d04bf-9427-4dee-9bc4-2890a6ab07a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Сезон 1'])[1]/following::span[4]</value>
+      <webElementGuid>eeacbfb8-b325-4d74-82d5-b22a9220327f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::span[5]</value>
+      <webElementGuid>000f7cf6-99d1-48ed-b302-e5ca2e5cfbd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public'])[1]/preceding::span[6]</value>
+      <webElementGuid>1a0741bf-a3fd-47c8-af74-fabc15e96039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Политика обработки персональных данных'])[1]/preceding::span[9]</value>
+      <webElementGuid>dc10612e-854a-4371-b53c-0db7f79af083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Draft']/parent::*</value>
+      <webElementGuid>4ed56fde-d21a-4778-807a-cbbd1fe8dc5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>da465ddc-d67f-4ed5-beee-e3972b0ed71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Draft' and (text() = 'Draft' or . = 'Draft')]</value>
+      <webElementGuid>c9e3d866-280f-4f73-978b-3b519e912314</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
